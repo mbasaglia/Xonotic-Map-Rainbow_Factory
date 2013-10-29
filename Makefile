@@ -124,8 +124,8 @@ pk3:
 clean:
 	$(REMOVE_FILE) $(PK3NAME) $(DIST_NAME)
 
-#%.bsp : %.map
-#	$(Q3MAP2) $(Q3MAP2_FLAGS) $(Q3MAP2_FLAGS_BSP)   $*.map
+$(MAP_COMPILED) : $(MAP_SOURCE)
+	$(Q3MAP2) $(Q3MAP2_FLAGS) $(Q3MAP2_FLAGS_BSP)   $(MAP_SOURCE)
 
 bsp_vis: $(MAP_COMPILED)
 bsp_vis:
