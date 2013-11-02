@@ -9960,10 +9960,10 @@ exx/base-metal01
 {
 brushDef
 {
-( -4112 512 752 ) ( -4896 512 752 ) ( -4112 512 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -3936 512 752 ) ( -4720 512 752 ) ( -3936 512 272 ) ( ( 0.03125 0 5.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4896 496 272 ) ( -4112 496 272 ) ( -4896 512 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4896 496 272 ) ( -4896 496 752 ) ( -4112 496 272 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
-( -5104 496 272 ) ( -5104 512 272 ) ( -5104 496 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 496 272 ) ( -4928 512 272 ) ( -4928 496 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4112 512 384 ) ( -4112 496 384 ) ( -4176 512 384 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4176 496 384 ) ( -4176 512 272 ) ( -4176 496 272 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
 }
@@ -10578,7 +10578,7 @@ brushDef
 {
 ( -1536 1520 768 ) ( -5120 1520 768 ) ( -1536 1520 256 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 254 ) ) common/caulk 0 0 0
 ( -5120 -512 272 ) ( -1536 -512 272 ) ( -5120 1024 272 ) ( ( nan nan nan ) ( nan nan nan ) ) common/caulk 0 0 0
-( -5120 -512 256 ) ( -5120 1024 256 ) ( -5120 -512 768 ) ( ( 0.015625 0 0.25 ) ( 0 0.015625 5.5 ) ) exx/base-metal05rust 0 0 0
+( -5120 -512 256 ) ( -5120 1024 256 ) ( -5120 -512 768 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 ( -5104 -512 752 ) ( -5104 1024 240 ) ( -5104 -512 240 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
 ( -5104 464 704 ) ( -5104 368 704 ) ( -5120 464 704 ) ( ( 0.03125 0 0.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -5104 472 576 ) ( -5120 472 640 ) ( -5104 472 640 ) ( ( -0.03125 0 0 ) ( 0 -0.03125 224 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
@@ -10601,11 +10601,11 @@ brushDef
 brushDef
 {
 ( -5120 -488 256 ) ( -5120 -488 768 ) ( -1536 -488 256 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 254 ) ) common/caulk 0 0 0
-( -5120 -512 256 ) ( -5120 1024 256 ) ( -5120 -512 768 ) ( ( 0.015625 0 0.25 ) ( 0 0.015625 5.5 ) ) exx/base-metal05rust 0 0 0
-( -5104 -512 752 ) ( -5104 1024 240 ) ( -5104 -512 240 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -5120 -512 256 ) ( -5120 1024 256 ) ( -5120 -512 768 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 254 ) ) common/caulk 0 0 0
+( -5104 -528 752 ) ( -5104 1008 240 ) ( -5104 -528 240 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
 ( -5104 464 704 ) ( -5104 368 704 ) ( -5120 464 704 ) ( ( 0.03125 0 0.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -5120 368 576 ) ( -5104 368 576 ) ( -5120 464 576 ) ( ( 0.03125 0 0.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-( -5104 376 576 ) ( -5120 376 640 ) ( -5120 376 576 ) ( ( -0.03125 0 0 ) ( 0 -0.03125 224 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5104 360 576 ) ( -5120 360 640 ) ( -5120 360 576 ) ( ( -0.03125 0 0 ) ( 0 -0.03125 224 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
 }
 }
 // brush 770
@@ -11632,10 +11632,10 @@ brushDef
 brushDef
 {
 ( -4112 512 752 ) ( -4112 496 752 ) ( -4896 512 752 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4112 512 752 ) ( -4896 512 752 ) ( -4112 512 272 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -3936 512 752 ) ( -4720 512 752 ) ( -3936 512 272 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
 ( -4256 512 720 ) ( -4256 512 240 ) ( -4256 496 720 ) ( ( 0.03125 0 0 ) ( 0 0.03125 255 ) ) common/caulk 0 0 0
 ( -4896 496 272 ) ( -4896 496 752 ) ( -4112 496 272 ) ( ( 0.0078125 0 -0.25 ) ( -0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
-( -5104 496 272 ) ( -5104 512 272 ) ( -5104 496 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 496 272 ) ( -4928 512 272 ) ( -4928 496 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4256 512 672 ) ( -4176 496 672 ) ( -4176 512 672 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
@@ -11655,9 +11655,9 @@ brushDef
 {
 brushDef
 {
-( -4112 512 720 ) ( -4896 512 720 ) ( -4112 512 240 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -3936 512 720 ) ( -4720 512 720 ) ( -3936 512 240 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
 ( -4896 496 272 ) ( -4896 496 752 ) ( -4112 496 272 ) ( ( 0.0078125 0 -0.25 ) ( -0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
-( -5104 496 272 ) ( -5104 512 272 ) ( -5104 496 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 496 272 ) ( -4928 512 272 ) ( -4928 496 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4176 512 384 ) ( -4112 496 384 ) ( -4112 512 384 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4176 512 672 ) ( -4176 512 544 ) ( -4176 496 672 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4256 512 544 ) ( -4176 496 544 ) ( -4256 496 544 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
@@ -11667,9 +11667,9 @@ brushDef
 {
 brushDef
 {
-( -4112 512 752 ) ( -4896 512 752 ) ( -4112 512 272 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -3936 512 752 ) ( -4720 512 752 ) ( -3936 512 272 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
 ( -4896 496 272 ) ( -4896 496 752 ) ( -4112 496 272 ) ( ( 0.0078125 0 -0.25 ) ( -0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
-( -5104 496 272 ) ( -5104 512 272 ) ( -5104 496 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 496 272 ) ( -4928 512 272 ) ( -4928 496 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4176 512 672 ) ( -4176 496 672 ) ( -4256 512 672 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4256 496 576 ) ( -4176 496 576 ) ( -4256 512 576 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4288 496 672 ) ( -4288 512 544 ) ( -4288 496 544 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
@@ -11680,11 +11680,11 @@ brushDef
 brushDef
 {
 ( -4176 512 576 ) ( -4176 496 576 ) ( -5104 512 576 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4176 512 576 ) ( -5104 512 576 ) ( -4176 512 544 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -4000 512 576 ) ( -4928 512 576 ) ( -4000 512 544 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
 ( -4288 512 576 ) ( -4288 512 544 ) ( -4288 496 576 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -5104 496 544 ) ( -4176 496 544 ) ( -5104 512 544 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 ( -5184 496 544 ) ( -5184 496 576 ) ( -4256 496 544 ) ( ( 0.0078125 0 -0.25 ) ( -0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
-( -5104 496 544 ) ( -5104 512 544 ) ( -5104 496 576 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 496 544 ) ( -4928 512 544 ) ( -4928 496 576 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
 // brush 846
@@ -11777,7 +11777,7 @@ brushDef
 brushDef
 {
 ( -4176 512 752 ) ( -4176 496 752 ) ( -4256 512 752 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4176 512 752 ) ( -4256 512 752 ) ( -4176 512 672 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -4176 512 752 ) ( -4256 512 752 ) ( -4176 512 672 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
 ( -4176 512 752 ) ( -4176 512 672 ) ( -4176 496 752 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4256 496 672 ) ( -4176 496 672 ) ( -4256 512 672 ) ( ( -0.0625 0 32 ) ( -0 -0.0124999853 53.1999397278 ) ) trak5x/trim-trim4d 0 0 0
 ( -4256 496 672 ) ( -4256 496 752 ) ( -4176 496 672 ) ( ( 0.0078125 0 -0.25 ) ( -0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
@@ -11789,7 +11789,7 @@ brushDef
 brushDef
 {
 ( -4112 512 752 ) ( -4112 496 752 ) ( -4176 512 752 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4112 512 752 ) ( -4176 512 752 ) ( -4112 512 672 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -4112 512 752 ) ( -4176 512 752 ) ( -4112 512 672 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
 ( -4096 512 752 ) ( -4096 512 672 ) ( -4096 496 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4176 496 672 ) ( -4112 496 672 ) ( -4176 512 672 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) exx/base-metal01 0 0 0
 ( -4176 496 672 ) ( -4176 496 752 ) ( -4112 496 672 ) ( ( 0.0078125 0 -0.25 ) ( -0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
@@ -13331,43 +13331,7 @@ brushDef
 {
 brushDef
 {
-( -5104 1504 272 ) ( -5104 1072 272 ) ( -5120 1504 272 ) ( ( 0.03125 0 0.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-( -5104 1520 272 ) ( -5120 1520 272 ) ( -5104 1520 160 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4912 1504 272 ) ( -4912 1504 160 ) ( -4912 1072 272 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
-( -5120 1104 160 ) ( -5104 1104 160 ) ( -5120 1536 160 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-( -5120 896 160 ) ( -5120 896 272 ) ( -5104 896 160 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-( -5104 1072 160 ) ( -5104 1504 160 ) ( -5104 1072 272 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-}
-}
-// brush 979
-{
-brushDef
-{
-( -4912 1520 752 ) ( -4912 880 752 ) ( -4928 1520 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-( -4912 1520 704 ) ( -4928 1520 704 ) ( -4912 1520 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4912 1520 752 ) ( -4912 1520 320 ) ( -4912 880 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
-( -4928 880 272 ) ( -4912 880 272 ) ( -4928 1520 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4928 896 272 ) ( -4928 896 704 ) ( -4912 896 272 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-( -4928 880 272 ) ( -4928 1520 272 ) ( -4928 880 704 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-}
-}
-// brush 980
-{
-brushDef
-{
-( -4912 896 752 ) ( -4912 640 752 ) ( -4928 896 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-( -4912 896 704 ) ( -4928 896 704 ) ( -4912 896 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4912 896 752 ) ( -4912 896 320 ) ( -4912 640 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
-( -4928 640 272 ) ( -4912 640 272 ) ( -4928 896 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4928 640 272 ) ( -4928 640 704 ) ( -4912 640 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4928 640 272 ) ( -4928 896 272 ) ( -4928 640 704 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-}
-}
-// brush 981
-{
-brushDef
-{
-( -4960 880 272 ) ( -4960 496 272 ) ( -5104 880 272 ) ( ( 0.03125 0 0.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4960 880 272 ) ( -4960 496 272 ) ( -5104 880 272 ) ( ( 0 0.0078125 -0.3125 ) ( -0.0078125 0 0.6875 ) ) exx/floor-crete01 0 0 0
 ( -4960 896 272 ) ( -5104 896 272 ) ( -4960 896 256 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4912 896 256 ) ( -4912 896 240 ) ( -4912 512 256 ) ( ( 0.03125 0 0 ) ( 0 0.03125 255.5 ) ) common/caulk 0 0 0
 ( -5104 512 256 ) ( -4960 512 256 ) ( -5104 896 256 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
@@ -13375,11 +13339,11 @@ brushDef
 ( -5104 512 256 ) ( -5104 896 256 ) ( -5104 512 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 982
+// brush 979
 {
 brushDef
 {
-( -4112 608 280 ) ( -4112 544 280 ) ( -4176 608 280 ) ( ( 0.015625 0 -0.5 ) ( -0 0.0078125 0.3125 ) ) map_rainbow_factory/conveyor_belt 0 0 0
+( -4112 608 280 ) ( -4112 544 280 ) ( -4176 608 280 ) ( ( 0.015625 -0 -0.5 ) ( 0 0.0078125 0.5 ) ) map_rainbow_factory/conveyor_belt 0 0 0
 ( -4112 608 288 ) ( -4176 608 288 ) ( -4112 608 256 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -3504 592 288 ) ( -3504 592 256 ) ( -3504 528 288 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4176 544 272 ) ( -4112 544 272 ) ( -4176 608 272 ) ( ( 0.03125 0 255 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
@@ -13387,7 +13351,7 @@ brushDef
 ( -4928 528 256 ) ( -4928 592 256 ) ( -4928 528 288 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 983
+// brush 980
 {
 brushDef
 {
@@ -13399,7 +13363,7 @@ brushDef
 ( -3520 1248 160 ) ( -3520 1520 160 ) ( -3520 1248 272 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
 }
 }
-// brush 984
+// brush 981
 {
 brushDef
 {
@@ -13411,7 +13375,7 @@ brushDef
 ( -3504 512 256 ) ( -3504 800 256 ) ( -3504 512 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 985
+// brush 982
 {
 brushDef
 {
@@ -13423,7 +13387,7 @@ brushDef
 ( -2064 512 272 ) ( -2064 1520 272 ) ( -2064 512 752 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) exx/base-crete01red 0 0 0
 }
 }
-// brush 986
+// brush 983
 {
 brushDef
 {
@@ -13435,7 +13399,7 @@ brushDef
 ( -2224 480 288 ) ( -2224 496 288 ) ( -2224 480 304 ) ( ( 0.03125 0 0 ) ( 0 0.03125 255.5 ) ) common/caulk 0 0 0
 }
 }
-// brush 987
+// brush 984
 {
 brushDef
 {
@@ -13447,7 +13411,7 @@ brushDef
 ( -2160 480 304 ) ( -2160 496 288 ) ( -2160 496 304 ) ( ( 0.015625 0 2 ) ( 0 0.015625 124 ) ) exx/base-crete01 0 0 0
 }
 }
-// brush 988
+// brush 985
 {
 brushDef
 {
@@ -13459,7 +13423,7 @@ brushDef
 ( -2224 496 288 ) ( -2160 480 288 ) ( -2224 480 288 ) ( ( 0.015625 0 2 ) ( 0 0.015625 124 ) ) exx/base-crete01 0 0 0
 }
 }
-// brush 989
+// brush 986
 {
 brushDef
 {
@@ -13471,7 +13435,7 @@ brushDef
 ( -2224 480 304 ) ( -2224 496 288 ) ( -2224 480 288 ) ( ( 0.015625 0 2 ) ( 0 0.015625 124 ) ) exx/base-crete01 0 0 0
 }
 }
-// brush 990
+// brush 987
 {
 brushDef
 {
@@ -13483,7 +13447,7 @@ brushDef
 ( -2240 496 512 ) ( -2240 512 512 ) ( -2240 496 752 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 991
+// brush 988
 {
 patchDef2
 {
@@ -13496,7 +13460,7 @@ exx/base-crete01
 )
 }
 }
-// brush 992
+// brush 989
 {
 brushDef
 {
@@ -13508,7 +13472,7 @@ brushDef
 ( -2080 496 320 ) ( -2080 512 320 ) ( -2080 496 544 ) ( ( 0.015625 0 2 ) ( 0 0.015625 124 ) ) exx/base-crete01 0 0 0
 }
 }
-// brush 993
+// brush 990
 {
 patchDef2
 {
@@ -13521,7 +13485,7 @@ exx/base-crete01
 )
 }
 }
-// brush 994
+// brush 991
 {
 patchDef2
 {
@@ -13534,7 +13498,7 @@ trak7x/wall-wallplain1
 )
 }
 }
-// brush 995
+// brush 992
 {
 patchDef2
 {
@@ -13547,7 +13511,7 @@ exx/base-crete01red
 )
 }
 }
-// brush 996
+// brush 993
 {
 patchDef2
 {
@@ -13560,7 +13524,7 @@ exx/base-crete01red
 )
 }
 }
-// brush 997
+// brush 994
 {
 patchDef2
 {
@@ -13573,7 +13537,7 @@ trak7x/wall-wallplain1
 )
 }
 }
-// brush 998
+// brush 995
 {
 brushDef
 {
@@ -13585,7 +13549,7 @@ brushDef
 ( -2144 496 192 ) ( -2144 512 192 ) ( -2144 496 304 ) ( ( 0.015625 0 2.25 ) ( 0 0.015625 124 ) ) exx/base-crete01 0 0 0
 }
 }
-// brush 999
+// brush 996
 {
 brushDef
 {
@@ -13597,7 +13561,7 @@ brushDef
 ( -2144 528 192 ) ( -2144 544 192 ) ( -2144 528 304 ) ( ( 0.015625 0 2.25 ) ( 0 0.015625 124 ) ) exx/base-crete01 0 0 0
 }
 }
-// brush 1000
+// brush 997
 {
 brushDef
 {
@@ -13609,7 +13573,7 @@ brushDef
 ( -4912 1520 112 ) ( -4912 1536 112 ) ( -4912 1520 224 ) ( ( 0.03125 0 0 ) ( 0 0.03125 254.5 ) ) common/caulk 0 0 0
 }
 }
-// brush 1001
+// brush 998
 {
 brushDef
 {
@@ -13621,7 +13585,7 @@ brushDef
 ( -3504 496 400 ) ( -3504 512 400 ) ( -3504 496 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0.5 ) ) common/caulk 0 0 0
 }
 }
-// brush 1002
+// brush 999
 {
 brushDef
 {
@@ -13633,7 +13597,7 @@ brushDef
 ( -2560 496 624 ) ( -2560 512 272 ) ( -2560 512 624 ) ( ( 0.03125 0 0 ) ( 0 0.03125 252.5 ) ) common/caulk 0 0 0
 }
 }
-// brush 1003
+// brush 1000
 {
 brushDef
 {
@@ -13645,7 +13609,7 @@ brushDef
 ( -3504 496 752 ) ( -3504 512 400 ) ( -3504 496 400 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0.5 ) ) common/caulk 0 0 0
 }
 }
-// brush 1004
+// brush 1001
 {
 brushDef
 {
@@ -13657,7 +13621,7 @@ brushDef
 ( -3504 1520 272 ) ( -3504 1536 272 ) ( -3504 1520 624 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1005
+// brush 1002
 {
 brushDef
 {
@@ -13669,7 +13633,7 @@ brushDef
 ( -2448 1520 656 ) ( -2448 1536 304 ) ( -2448 1536 656 ) ( ( 0.03125 0 0 ) ( 0 0.03125 1 ) ) common/caulk 0 0 0
 }
 }
-// brush 1006
+// brush 1003
 {
 brushDef
 {
@@ -13681,7 +13645,7 @@ brushDef
 ( -2448 512 752 ) ( -2448 1520 752 ) ( -2448 512 768 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1007
+// brush 1004
 {
 brushDef
 {
@@ -13693,7 +13657,7 @@ brushDef
 ( -2064 512 752 ) ( -2448 512 768 ) ( -2448 512 752 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1008
+// brush 1005
 {
 brushDef
 {
@@ -13705,7 +13669,7 @@ brushDef
 ( -2592 528 768 ) ( -2592 1536 752 ) ( -2592 528 752 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1009
+// brush 1006
 {
 patchDef2
 {
@@ -13724,7 +13688,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1010
+// brush 1007
 {
 patchDef2
 {
@@ -13743,7 +13707,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1011
+// brush 1008
 {
 patchDef2
 {
@@ -13762,7 +13726,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1012
+// brush 1009
 {
 patchDef2
 {
@@ -13781,7 +13745,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1013
+// brush 1010
 {
 patchDef2
 {
@@ -13800,7 +13764,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1014
+// brush 1011
 {
 patchDef2
 {
@@ -13819,7 +13783,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1015
+// brush 1012
 {
 patchDef2
 {
@@ -13838,7 +13802,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1016
+// brush 1013
 {
 patchDef2
 {
@@ -13857,7 +13821,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1017
+// brush 1014
 {
 patchDef2
 {
@@ -13876,7 +13840,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1018
+// brush 1015
 {
 patchDef2
 {
@@ -13895,7 +13859,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1019
+// brush 1016
 {
 brushDef
 {
@@ -13907,7 +13871,7 @@ brushDef
 ( -2180 1440 416 ) ( -2180 1448 416 ) ( -2180 1440 424 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) exx/base-metal05rust 0 0 0
 }
 }
-// brush 1020
+// brush 1017
 {
 brushDef
 {
@@ -13919,7 +13883,7 @@ brushDef
 ( -2180 1436 272 ) ( -2180 1500 272 ) ( -2180 1436 288 ) ( ( 0.015625 0 0 ) ( 0 0.015625 2.25 ) ) exx/base-metal05rust 0 0 0
 }
 }
-// brush 1021
+// brush 1018
 {
 brushDef
 {
@@ -13931,7 +13895,7 @@ brushDef
 ( -2060 1408 256 ) ( -2172 1408 272 ) ( -2172 1408 256 ) ( ( 0.015625 0 0.0625 ) ( 0 0.015625 0 ) ) exx/base-metal06rust 0 0 0
 }
 }
-// brush 1022
+// brush 1019
 {
 brushDef
 {
@@ -13943,7 +13907,7 @@ brushDef
 ( -2064 1444 272 ) ( -2064 1508 256 ) ( -2064 1444 256 ) ( ( 0.03125 0 255.875 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1023
+// brush 1020
 {
 patchDef2
 {
@@ -13962,7 +13926,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1024
+// brush 1021
 {
 patchDef2
 {
@@ -13981,7 +13945,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1025
+// brush 1022
 {
 patchDef2
 {
@@ -14000,7 +13964,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1026
+// brush 1023
 {
 patchDef2
 {
@@ -14019,7 +13983,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1027
+// brush 1024
 {
 patchDef2
 {
@@ -14038,7 +14002,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1028
+// brush 1025
 {
 patchDef2
 {
@@ -14057,7 +14021,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1029
+// brush 1026
 {
 patchDef2
 {
@@ -14076,7 +14040,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1030
+// brush 1027
 {
 patchDef2
 {
@@ -14095,7 +14059,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1031
+// brush 1028
 {
 patchDef2
 {
@@ -14114,7 +14078,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1032
+// brush 1029
 {
 patchDef2
 {
@@ -14133,7 +14097,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1033
+// brush 1030
 {
 patchDef2
 {
@@ -14152,7 +14116,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1034
+// brush 1031
 {
 patchDef2
 {
@@ -14171,7 +14135,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1035
+// brush 1032
 {
 brushDef
 {
@@ -14183,7 +14147,7 @@ brushDef
 ( -2448 1488 208 ) ( -2448 1504 208 ) ( -2448 1488 272 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1036
+// brush 1033
 {
 brushDef
 {
@@ -14195,7 +14159,7 @@ brushDef
 ( -2448 1424 208 ) ( -2448 1488 208 ) ( -2448 1424 272 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1037
+// brush 1034
 {
 brushDef
 {
@@ -14207,7 +14171,7 @@ brushDef
 ( -2440 1408 188 ) ( -2440 1476 188 ) ( -2440 1408 208 ) ( ( 0.03125 0 255.125 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1038
+// brush 1035
 {
 brushDef
 {
@@ -14219,7 +14183,7 @@ brushDef
 ( -2440 1408 208 ) ( -2440 1476 208 ) ( -2440 1408 272 ) ( ( 0.015625 0 511.5625 ) ( 0 0.015625 0 ) ) map_rainbow_factory/slime_red 0 0 0
 }
 }
-// brush 1039
+// brush 1036
 {
 patchDef2
 {
@@ -14238,7 +14202,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1040
+// brush 1037
 {
 patchDef2
 {
@@ -14257,7 +14221,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1041
+// brush 1038
 {
 patchDef2
 {
@@ -14276,7 +14240,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1042
+// brush 1039
 {
 patchDef2
 {
@@ -14295,7 +14259,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1043
+// brush 1040
 {
 patchDef2
 {
@@ -14314,7 +14278,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1044
+// brush 1041
 {
 patchDef2
 {
@@ -14333,7 +14297,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1045
+// brush 1042
 {
 patchDef2
 {
@@ -14352,7 +14316,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1046
+// brush 1043
 {
 patchDef2
 {
@@ -14371,7 +14335,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1047
+// brush 1044
 {
 patchDef2
 {
@@ -14390,7 +14354,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1048
+// brush 1045
 {
 patchDef2
 {
@@ -14409,7 +14373,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1049
+// brush 1046
 {
 patchDef2
 {
@@ -14428,7 +14392,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1050
+// brush 1047
 {
 patchDef2
 {
@@ -14447,7 +14411,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1051
+// brush 1048
 {
 patchDef2
 {
@@ -14466,7 +14430,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1052
+// brush 1049
 {
 patchDef2
 {
@@ -14485,7 +14449,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1053
+// brush 1050
 {
 patchDef2
 {
@@ -14504,7 +14468,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1054
+// brush 1051
 {
 patchDef2
 {
@@ -14523,7 +14487,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1055
+// brush 1052
 {
 patchDef2
 {
@@ -14542,7 +14506,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1056
+// brush 1053
 {
 patchDef2
 {
@@ -14561,7 +14525,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1057
+// brush 1054
 {
 patchDef2
 {
@@ -14580,7 +14544,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1058
+// brush 1055
 {
 patchDef2
 {
@@ -14599,7 +14563,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1059
+// brush 1056
 {
 patchDef2
 {
@@ -14618,7 +14582,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1060
+// brush 1057
 {
 patchDef2
 {
@@ -14637,7 +14601,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1061
+// brush 1058
 {
 brushDef
 {
@@ -14649,7 +14613,7 @@ brushDef
 ( -2448 1200 624 ) ( -2448 1280 624 ) ( -2448 1200 656 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1062
+// brush 1059
 {
 brushDef
 {
@@ -14661,7 +14625,7 @@ brushDef
 ( -2176 1280 624 ) ( -2176 1504 624 ) ( -2176 1280 656 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1063
+// brush 1060
 {
 brushDef
 {
@@ -14673,7 +14637,7 @@ brushDef
 ( -2160 1280 576 ) ( -2160 1488 576 ) ( -2160 1280 592 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1064
+// brush 1061
 {
 patchDef2
 {
@@ -14692,7 +14656,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1065
+// brush 1062
 {
 patchDef2
 {
@@ -14711,7 +14675,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1066
+// brush 1063
 {
 patchDef2
 {
@@ -14730,7 +14694,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1067
+// brush 1064
 {
 patchDef2
 {
@@ -14749,7 +14713,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1068
+// brush 1065
 {
 patchDef2
 {
@@ -14768,7 +14732,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1069
+// brush 1066
 {
 patchDef2
 {
@@ -14787,7 +14751,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1070
+// brush 1067
 {
 patchDef2
 {
@@ -14806,7 +14770,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1071
+// brush 1068
 {
 patchDef2
 {
@@ -14825,7 +14789,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1072
+// brush 1069
 {
 patchDef2
 {
@@ -14844,7 +14808,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1073
+// brush 1070
 {
 patchDef2
 {
@@ -14863,7 +14827,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1074
+// brush 1071
 {
 patchDef2
 {
@@ -14882,7 +14846,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1075
+// brush 1072
 {
 patchDef2
 {
@@ -14901,7 +14865,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1076
+// brush 1073
 {
 patchDef2
 {
@@ -14920,7 +14884,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1077
+// brush 1074
 {
 patchDef2
 {
@@ -14939,7 +14903,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1078
+// brush 1075
 {
 patchDef2
 {
@@ -14958,7 +14922,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1079
+// brush 1076
 {
 patchDef2
 {
@@ -14977,7 +14941,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1080
+// brush 1077
 {
 patchDef2
 {
@@ -14996,7 +14960,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1081
+// brush 1078
 {
 patchDef2
 {
@@ -15009,7 +14973,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1082
+// brush 1079
 {
 patchDef2
 {
@@ -15022,7 +14986,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1083
+// brush 1080
 {
 patchDef2
 {
@@ -15041,7 +15005,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1084
+// brush 1081
 {
 patchDef2
 {
@@ -15060,7 +15024,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1085
+// brush 1082
 {
 patchDef2
 {
@@ -15079,7 +15043,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1086
+// brush 1083
 {
 patchDef2
 {
@@ -15098,7 +15062,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1087
+// brush 1084
 {
 patchDef2
 {
@@ -15117,7 +15081,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1088
+// brush 1085
 {
 patchDef2
 {
@@ -15136,7 +15100,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1089
+// brush 1086
 {
 patchDef2
 {
@@ -15155,7 +15119,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1090
+// brush 1087
 {
 patchDef2
 {
@@ -15174,7 +15138,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1091
+// brush 1088
 {
 patchDef2
 {
@@ -15193,7 +15157,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1092
+// brush 1089
 {
 patchDef2
 {
@@ -15212,7 +15176,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1093
+// brush 1090
 {
 patchDef2
 {
@@ -15231,7 +15195,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1094
+// brush 1091
 {
 patchDef2
 {
@@ -15250,7 +15214,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1095
+// brush 1092
 {
 patchDef2
 {
@@ -15269,7 +15233,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1096
+// brush 1093
 {
 patchDef2
 {
@@ -15288,7 +15252,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1097
+// brush 1094
 {
 patchDef2
 {
@@ -15307,7 +15271,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1098
+// brush 1095
 {
 patchDef2
 {
@@ -15326,7 +15290,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1099
+// brush 1096
 {
 patchDef2
 {
@@ -15345,7 +15309,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1100
+// brush 1097
 {
 patchDef2
 {
@@ -15364,7 +15328,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1101
+// brush 1098
 {
 patchDef2
 {
@@ -15383,7 +15347,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1102
+// brush 1099
 {
 brushDef
 {
@@ -15395,7 +15359,7 @@ brushDef
 ( -2384 716 528 ) ( -2392 716 528 ) ( -2384 716 536 ) ( ( 0.015625 0 14.75 ) ( 0 0.015625 2 ) ) exx/base-metal05rust 0 0 0
 }
 }
-// brush 1103
+// brush 1100
 {
 brushDef
 {
@@ -15407,7 +15371,7 @@ brushDef
 ( -2380 716 384 ) ( -2444 716 384 ) ( -2380 716 400 ) ( ( 0.015625 0 14.75 ) ( 0 0.015625 4 ) ) exx/base-metal05rust 0 0 0
 }
 }
-// brush 1104
+// brush 1101
 {
 patchDef2
 {
@@ -15426,7 +15390,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1105
+// brush 1102
 {
 patchDef2
 {
@@ -15445,7 +15409,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1106
+// brush 1103
 {
 patchDef2
 {
@@ -15464,7 +15428,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1107
+// brush 1104
 {
 patchDef2
 {
@@ -15483,7 +15447,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1108
+// brush 1105
 {
 patchDef2
 {
@@ -15502,7 +15466,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1109
+// brush 1106
 {
 patchDef2
 {
@@ -15521,7 +15485,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1110
+// brush 1107
 {
 patchDef2
 {
@@ -15540,7 +15504,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1111
+// brush 1108
 {
 patchDef2
 {
@@ -15559,7 +15523,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1112
+// brush 1109
 {
 patchDef2
 {
@@ -15578,7 +15542,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1113
+// brush 1110
 {
 patchDef2
 {
@@ -15597,7 +15561,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1114
+// brush 1111
 {
 patchDef2
 {
@@ -15616,7 +15580,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1115
+// brush 1112
 {
 patchDef2
 {
@@ -15635,7 +15599,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1116
+// brush 1113
 {
 brushDef
 {
@@ -15647,7 +15611,7 @@ brushDef
 ( -2592 1200 656 ) ( -2592 1504 656 ) ( -2592 1200 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.125 ) ) trak4x/base-concrete4a 0 0 0
 }
 }
-// brush 1117
+// brush 1114
 {
 brushDef
 {
@@ -15659,7 +15623,7 @@ brushDef
 ( -2448 1504 656 ) ( -2560 1504 752 ) ( -2448 1504 752 ) ( ( 0.015625 0 2 ) ( 0 0.015625 124 ) ) exx/base-crete01 0 0 0
 }
 }
-// brush 1118
+// brush 1115
 {
 brushDef
 {
@@ -15671,7 +15635,7 @@ brushDef
 ( -2560 1504 432 ) ( -2448 1200 432 ) ( -2560 1200 432 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1119
+// brush 1116
 {
 brushDef
 {
@@ -15683,7 +15647,7 @@ brushDef
 ( -2480 1200 656 ) ( -2592 1200 752 ) ( -2592 1200 656 ) ( ( 0.015625 0 1.5 ) ( 0 0.015625 124 ) ) exx/base-crete01 0 0 0
 }
 }
-// brush 1120
+// brush 1117
 {
 brushDef
 {
@@ -15695,7 +15659,7 @@ brushDef
 ( -2464 1200 656 ) ( -2464 1504 656 ) ( -2464 1200 752 ) ( ( 0.015625 0 2 ) ( 0 0.015625 124 ) ) exx/base-crete01 0 0 0
 }
 }
-// brush 1121
+// brush 1118
 {
 patchDef2
 {
@@ -15708,7 +15672,7 @@ exx/base-crete01
 )
 }
 }
-// brush 1122
+// brush 1119
 {
 patchDef2
 {
@@ -15721,7 +15685,7 @@ exx/base-crete01
 )
 }
 }
-// brush 1123
+// brush 1120
 {
 patchDef2
 {
@@ -15734,7 +15698,7 @@ exx/base-crete01
 )
 }
 }
-// brush 1124
+// brush 1121
 {
 patchDef2
 {
@@ -15747,7 +15711,7 @@ exx/base-crete01red
 )
 }
 }
-// brush 1125
+// brush 1122
 {
 patchDef2
 {
@@ -15760,7 +15724,7 @@ exx/base-crete01
 )
 }
 }
-// brush 1126
+// brush 1123
 {
 brushDef
 {
@@ -15772,7 +15736,7 @@ brushDef
 ( -2592 1200 752 ) ( -2592 1520 752 ) ( -2592 1200 768 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1127
+// brush 1124
 {
 brushDef
 {
@@ -15784,7 +15748,7 @@ brushDef
 ( -2592 1040 272 ) ( -2592 1200 272 ) ( -2592 1040 656 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.125 ) ) trak4x/base-concrete4a 0 0 0
 }
 }
-// brush 1128
+// brush 1125
 {
 brushDef
 {
@@ -15796,7 +15760,7 @@ brushDef
 ( -2592 944 448 ) ( -2592 1104 448 ) ( -2592 944 656 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.125 ) ) trak4x/base-concrete4a 0 0 0
 }
 }
-// brush 1129
+// brush 1126
 {
 brushDef
 {
@@ -15808,7 +15772,7 @@ brushDef
 ( -2576 944 272 ) ( -2576 1104 272 ) ( -2576 944 288 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
 }
 }
-// brush 1130
+// brush 1127
 {
 brushDef
 {
@@ -15820,7 +15784,7 @@ brushDef
 ( -2592 512 448 ) ( -2592 944 448 ) ( -2592 512 656 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.125 ) ) trak4x/base-concrete4a 0 0 0
 }
 }
-// brush 1131
+// brush 1128
 {
 brushDef
 {
@@ -15832,7 +15796,7 @@ brushDef
 ( -2592 1104 464 ) ( -2592 1440 464 ) ( -2592 1104 656 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.125 ) ) trak4x/base-concrete4a 0 0 0
 }
 }
-// brush 1132
+// brush 1129
 {
 patchDef2
 {
@@ -15845,7 +15809,7 @@ exx/base-crete01red
 )
 }
 }
-// brush 1133
+// brush 1130
 {
 patchDef2
 {
@@ -15858,7 +15822,7 @@ exx/base-crete01red
 )
 }
 }
-// brush 1134
+// brush 1131
 {
 patchDef2
 {
@@ -15871,7 +15835,7 @@ exx/base-crete01red
 )
 }
 }
-// brush 1135
+// brush 1132
 {
 patchDef2
 {
@@ -15884,7 +15848,7 @@ exx/base-crete01red
 )
 }
 }
-// brush 1136
+// brush 1133
 {
 patchDef2
 {
@@ -15897,7 +15861,7 @@ exx/base-crete01red
 )
 }
 }
-// brush 1137
+// brush 1134
 {
 patchDef2
 {
@@ -15910,7 +15874,7 @@ exx/base-crete01red
 )
 }
 }
-// brush 1138
+// brush 1135
 {
 patchDef2
 {
@@ -15923,7 +15887,7 @@ exx/base-crete01red
 )
 }
 }
-// brush 1139
+// brush 1136
 {
 patchDef2
 {
@@ -15936,7 +15900,7 @@ exx/base-crete01red
 )
 }
 }
-// brush 1140
+// brush 1137
 {
 brushDef
 {
@@ -15948,7 +15912,7 @@ brushDef
 ( -2592 928 256 ) ( -2592 1088 256 ) ( -2592 928 272 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1141
+// brush 1138
 {
 brushDef
 {
@@ -15960,7 +15924,7 @@ brushDef
 ( -2576 1072 272 ) ( -2576 1088 272 ) ( -2576 1072 400 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1142
+// brush 1139
 {
 brushDef
 {
@@ -15972,7 +15936,7 @@ brushDef
 ( -2576 944 416 ) ( -2576 1024 416 ) ( -2576 944 432 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1143
+// brush 1140
 {
 brushDef
 {
@@ -15984,7 +15948,7 @@ brushDef
 ( -2576 928 288 ) ( -2576 944 288 ) ( -2576 928 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1144
+// brush 1141
 {
 patchDef2
 {
@@ -15997,7 +15961,7 @@ trak4x/base-concrete4a
 )
 }
 }
-// brush 1145
+// brush 1142
 {
 patchDef2
 {
@@ -16010,7 +15974,7 @@ trak4x/base-concrete4a
 )
 }
 }
-// brush 1146
+// brush 1143
 {
 patchDef2
 {
@@ -16023,7 +15987,7 @@ trak4x/base-concrete4a
 )
 }
 }
-// brush 1147
+// brush 1144
 {
 patchDef2
 {
@@ -16036,7 +16000,7 @@ trak4x/base-concrete4a
 )
 }
 }
-// brush 1148
+// brush 1145
 {
 patchDef2
 {
@@ -16049,7 +16013,7 @@ trak4x/base-concrete4a
 )
 }
 }
-// brush 1149
+// brush 1146
 {
 patchDef2
 {
@@ -16062,7 +16026,7 @@ trak4x/base-concrete4a
 )
 }
 }
-// brush 1150
+// brush 1147
 {
 patchDef2
 {
@@ -16075,7 +16039,7 @@ trak4x/base-concrete4a
 )
 }
 }
-// brush 1151
+// brush 1148
 {
 patchDef2
 {
@@ -16088,7 +16052,7 @@ trak4x/base-concrete4a
 )
 }
 }
-// brush 1152
+// brush 1149
 {
 brushDef
 {
@@ -16100,7 +16064,7 @@ brushDef
 ( -2592 1408 656 ) ( -2592 1424 656 ) ( -2592 1408 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.125 ) ) trak4x/base-concrete4a 0 0 0
 }
 }
-// brush 1153
+// brush 1150
 {
 brushDef
 {
@@ -16112,7 +16076,7 @@ brushDef
 ( -2448 1096 304 ) ( -2448 1136 304 ) ( -2448 1096 432 ) ( ( 0.015625 0 3.375 ) ( 0 0.015625 0.25 ) ) common/nodrawnonsolid 0 0 0
 }
 }
-// brush 1154
+// brush 1151
 {
 brushDef
 {
@@ -16124,7 +16088,7 @@ brushDef
 ( -3104 544 272 ) ( -3104 608 272 ) ( -3104 544 432 ) ( ( 0.015625 0 248.5 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1155
+// brush 1152
 {
 brushDef
 {
@@ -16136,7 +16100,7 @@ brushDef
 ( -3232 528 272 ) ( -3232 656 272 ) ( -3232 528 400 ) ( ( 0.015625 0 0.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1156
+// brush 1153
 {
 brushDef
 {
@@ -16148,7 +16112,7 @@ brushDef
 ( -3360 512 272 ) ( -3360 640 272 ) ( -3360 512 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1157
+// brush 1154
 {
 brushDef
 {
@@ -16160,7 +16124,7 @@ brushDef
 ( -3504 64 288 ) ( -3360 64 400 ) ( -3504 -64 288 ) ( ( 0.015625 0 0 ) ( 0 0.015625 509.75 ) ) exx/base-crete01red 0 0 0
 }
 }
-// brush 1158
+// brush 1155
 {
 patchDef2
 {
@@ -16173,7 +16137,7 @@ exx/base-metal04
 )
 }
 }
-// brush 1159
+// brush 1156
 {
 patchDef2
 {
@@ -16188,7 +16152,7 @@ exx/base-metal04
 )
 }
 }
-// brush 1160
+// brush 1157
 {
 patchDef2
 {
@@ -16203,7 +16167,7 @@ exx/base-metal04
 )
 }
 }
-// brush 1161
+// brush 1158
 {
 patchDef2
 {
@@ -16218,7 +16182,7 @@ exx/base-metal04
 )
 }
 }
-// brush 1162
+// brush 1159
 {
 patchDef2
 {
@@ -16231,7 +16195,7 @@ exx/base-metal04
 )
 }
 }
-// brush 1163
+// brush 1160
 {
 brushDef
 {
@@ -16243,7 +16207,7 @@ brushDef
 ( -3232 512 528 ) ( -3232 576 528 ) ( -3232 512 576 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) exx/base-metal04 0 0 0
 }
 }
-// brush 1164
+// brush 1161
 {
 brushDef
 {
@@ -16255,7 +16219,7 @@ brushDef
 ( -3232 624 400 ) ( -3232 640 400 ) ( -3232 624 528 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) exx/base-metal04 0 0 0
 }
 }
-// brush 1165
+// brush 1162
 {
 brushDef
 {
@@ -16267,7 +16231,7 @@ brushDef
 ( -3232 512 408 ) ( -3232 528 408 ) ( -3232 512 528 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) exx/base-metal04 0 0 0
 }
 }
-// brush 1166
+// brush 1163
 {
 patchDef2
 {
@@ -16280,7 +16244,7 @@ exx/base-metal04
 )
 }
 }
-// brush 1167
+// brush 1164
 {
 patchDef2
 {
@@ -16293,7 +16257,7 @@ exx/floor-grate01
 )
 }
 }
-// brush 1168
+// brush 1165
 {
 patchDef2
 {
@@ -16306,7 +16270,7 @@ exx/floor-grate01
 )
 }
 }
-// brush 1169
+// brush 1166
 {
 patchDef2
 {
@@ -16319,7 +16283,7 @@ exx/floor-grate01
 )
 }
 }
-// brush 1170
+// brush 1167
 {
 patchDef2
 {
@@ -16332,7 +16296,7 @@ exx/floor-grate01
 )
 }
 }
-// brush 1171
+// brush 1168
 {
 patchDef2
 {
@@ -16351,7 +16315,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1172
+// brush 1169
 {
 patchDef2
 {
@@ -16370,7 +16334,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1173
+// brush 1170
 {
 patchDef2
 {
@@ -16389,7 +16353,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1174
+// brush 1171
 {
 patchDef2
 {
@@ -16408,7 +16372,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1175
+// brush 1172
 {
 patchDef2
 {
@@ -16427,7 +16391,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1176
+// brush 1173
 {
 patchDef2
 {
@@ -16446,7 +16410,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1177
+// brush 1174
 {
 patchDef2
 {
@@ -16465,7 +16429,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1178
+// brush 1175
 {
 patchDef2
 {
@@ -16484,7 +16448,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1179
+// brush 1176
 {
 patchDef2
 {
@@ -16503,7 +16467,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1180
+// brush 1177
 {
 patchDef2
 {
@@ -16522,7 +16486,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1181
+// brush 1178
 {
 brushDef
 {
@@ -16534,7 +16498,7 @@ brushDef
 ( -2736 512 604 ) ( -2744 512 604 ) ( -2736 512 612 ) ( ( 0.0078125 0 0.25 ) ( 0 0.0078125 0.53125 ) ) common/caulk 0 0 0
 }
 }
-// brush 1182
+// brush 1179
 {
 brushDef
 {
@@ -16546,7 +16510,7 @@ brushDef
 ( -2732 512 460 ) ( -2796 512 460 ) ( -2732 512 476 ) ( ( 0.0078125 0 0.25 ) ( 0 0.0078125 0.53125 ) ) common/caulk 0 0 0
 }
 }
-// brush 1183
+// brush 1180
 {
 patchDef2
 {
@@ -16565,7 +16529,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1184
+// brush 1181
 {
 patchDef2
 {
@@ -16584,7 +16548,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1185
+// brush 1182
 {
 patchDef2
 {
@@ -16603,7 +16567,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1186
+// brush 1183
 {
 patchDef2
 {
@@ -16622,7 +16586,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1187
+// brush 1184
 {
 patchDef2
 {
@@ -16641,7 +16605,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1188
+// brush 1185
 {
 patchDef2
 {
@@ -16660,7 +16624,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1189
+// brush 1186
 {
 patchDef2
 {
@@ -16679,7 +16643,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1190
+// brush 1187
 {
 patchDef2
 {
@@ -16698,7 +16662,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1191
+// brush 1188
 {
 patchDef2
 {
@@ -16717,7 +16681,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1192
+// brush 1189
 {
 patchDef2
 {
@@ -16736,7 +16700,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1193
+// brush 1190
 {
 patchDef2
 {
@@ -16755,7 +16719,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1194
+// brush 1191
 {
 patchDef2
 {
@@ -16774,7 +16738,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1195
+// brush 1192
 {
 patchDef2
 {
@@ -16793,7 +16757,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1196
+// brush 1193
 {
 patchDef2
 {
@@ -16812,7 +16776,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1197
+// brush 1194
 {
 patchDef2
 {
@@ -16831,7 +16795,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1198
+// brush 1195
 {
 patchDef2
 {
@@ -16850,7 +16814,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1199
+// brush 1196
 {
 patchDef2
 {
@@ -16869,7 +16833,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1200
+// brush 1197
 {
 patchDef2
 {
@@ -16888,7 +16852,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1201
+// brush 1198
 {
 patchDef2
 {
@@ -16907,7 +16871,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1202
+// brush 1199
 {
 patchDef2
 {
@@ -16926,7 +16890,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1203
+// brush 1200
 {
 patchDef2
 {
@@ -16945,7 +16909,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1204
+// brush 1201
 {
 patchDef2
 {
@@ -16964,7 +16928,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1205
+// brush 1202
 {
 brushDef
 {
@@ -16976,7 +16940,7 @@ brushDef
 ( -2852 592 536 ) ( -2852 584 536 ) ( -2852 592 544 ) ( ( 0.015625 0 480.25 ) ( 0 0.015625 2.125 ) ) exx/base-metal05rust 0 0 0
 }
 }
-// brush 1206
+// brush 1203
 {
 brushDef
 {
@@ -16988,7 +16952,7 @@ brushDef
 ( -2852 596 392 ) ( -2852 532 392 ) ( -2852 596 408 ) ( ( 0.015625 0 480.25 ) ( 0 0.015625 4.125 ) ) exx/base-metal05rust 0 0 0
 }
 }
-// brush 1207
+// brush 1204
 {
 patchDef2
 {
@@ -17007,7 +16971,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1208
+// brush 1205
 {
 patchDef2
 {
@@ -17026,7 +16990,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1209
+// brush 1206
 {
 patchDef2
 {
@@ -17045,7 +17009,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1210
+// brush 1207
 {
 patchDef2
 {
@@ -17064,7 +17028,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1211
+// brush 1208
 {
 patchDef2
 {
@@ -17083,7 +17047,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1212
+// brush 1209
 {
 patchDef2
 {
@@ -17102,7 +17066,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1213
+// brush 1210
 {
 patchDef2
 {
@@ -17121,7 +17085,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1214
+// brush 1211
 {
 patchDef2
 {
@@ -17140,7 +17104,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1215
+// brush 1212
 {
 patchDef2
 {
@@ -17159,7 +17123,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1216
+// brush 1213
 {
 patchDef2
 {
@@ -17178,7 +17142,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1217
+// brush 1214
 {
 patchDef2
 {
@@ -17197,7 +17161,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1218
+// brush 1215
 {
 patchDef2
 {
@@ -17216,7 +17180,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1219
+// brush 1216
 {
 patchDef2
 {
@@ -17235,7 +17199,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1220
+// brush 1217
 {
 patchDef2
 {
@@ -17254,7 +17218,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1221
+// brush 1218
 {
 patchDef2
 {
@@ -17273,7 +17237,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1222
+// brush 1219
 {
 patchDef2
 {
@@ -17292,7 +17256,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1223
+// brush 1220
 {
 patchDef2
 {
@@ -17311,7 +17275,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1224
+// brush 1221
 {
 patchDef2
 {
@@ -17330,7 +17294,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1225
+// brush 1222
 {
 patchDef2
 {
@@ -17349,7 +17313,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1226
+// brush 1223
 {
 patchDef2
 {
@@ -17368,7 +17332,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1227
+// brush 1224
 {
 patchDef2
 {
@@ -17387,7 +17351,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1228
+// brush 1225
 {
 patchDef2
 {
@@ -17406,7 +17370,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1229
+// brush 1226
 {
 patchDef2
 {
@@ -17425,7 +17389,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1230
+// brush 1227
 {
 patchDef2
 {
@@ -17444,7 +17408,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1231
+// brush 1228
 {
 patchDef2
 {
@@ -17463,7 +17427,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1232
+// brush 1229
 {
 patchDef2
 {
@@ -17482,7 +17446,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1233
+// brush 1230
 {
 patchDef2
 {
@@ -17501,7 +17465,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1234
+// brush 1231
 {
 patchDef2
 {
@@ -17520,7 +17484,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1235
+// brush 1232
 {
 patchDef2
 {
@@ -17539,7 +17503,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1236
+// brush 1233
 {
 patchDef2
 {
@@ -17558,7 +17522,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1237
+// brush 1234
 {
 patchDef2
 {
@@ -17577,7 +17541,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1238
+// brush 1235
 {
 patchDef2
 {
@@ -17596,7 +17560,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1239
+// brush 1236
 {
 patchDef2
 {
@@ -17615,7 +17579,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1240
+// brush 1237
 {
 patchDef2
 {
@@ -17634,7 +17598,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1241
+// brush 1238
 {
 patchDef2
 {
@@ -17653,7 +17617,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1242
+// brush 1239
 {
 patchDef2
 {
@@ -17672,7 +17636,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1243
+// brush 1240
 {
 patchDef2
 {
@@ -17691,7 +17655,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1244
+// brush 1241
 {
 patchDef2
 {
@@ -17710,7 +17674,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1245
+// brush 1242
 {
 patchDef2
 {
@@ -17729,7 +17693,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1246
+// brush 1243
 {
 patchDef2
 {
@@ -17748,7 +17712,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1247
+// brush 1244
 {
 patchDef2
 {
@@ -17767,7 +17731,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1248
+// brush 1245
 {
 patchDef2
 {
@@ -17786,7 +17750,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1249
+// brush 1246
 {
 patchDef2
 {
@@ -17805,7 +17769,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1250
+// brush 1247
 {
 patchDef2
 {
@@ -17824,7 +17788,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1251
+// brush 1248
 {
 patchDef2
 {
@@ -17843,7 +17807,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1252
+// brush 1249
 {
 patchDef2
 {
@@ -17862,7 +17826,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1253
+// brush 1250
 {
 patchDef2
 {
@@ -17881,7 +17845,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1254
+// brush 1251
 {
 brushDef
 {
@@ -17893,7 +17857,7 @@ brushDef
 ( -2640 1280 624 ) ( -2640 1520 624 ) ( -2640 1280 656 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1255
+// brush 1252
 {
 brushDef
 {
@@ -17905,7 +17869,7 @@ brushDef
 ( -2944 1200 624 ) ( -2944 1280 624 ) ( -2944 1200 656 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1256
+// brush 1253
 {
 brushDef
 {
@@ -17917,7 +17881,7 @@ brushDef
 ( -2944 944 624 ) ( -2944 1200 624 ) ( -2944 944 656 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1257
+// brush 1254
 {
 brushDef
 {
@@ -17929,7 +17893,7 @@ brushDef
 ( -2864 672 624 ) ( -2864 752 624 ) ( -2864 672 656 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1258
+// brush 1255
 {
 brushDef
 {
@@ -17941,7 +17905,7 @@ brushDef
 ( -2736 528 624 ) ( -2736 624 624 ) ( -2736 528 656 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1259
+// brush 1256
 {
 brushDef
 {
@@ -17953,7 +17917,7 @@ brushDef
 ( -2704 720 624 ) ( -2704 752 624 ) ( -2704 720 656 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1260
+// brush 1257
 {
 brushDef
 {
@@ -17965,7 +17929,7 @@ brushDef
 ( -3184 1040 624 ) ( -3184 1120 624 ) ( -3184 1040 656 ) ( ( 0.015625 0 255.5 ) ( 0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1261
+// brush 1258
 {
 brushDef
 {
@@ -17977,7 +17941,7 @@ brushDef
 ( -3184 672 624 ) ( -3184 1072 624 ) ( -3184 672 656 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1262
+// brush 1259
 {
 brushDef
 {
@@ -17989,7 +17953,7 @@ brushDef
 ( -3904 1024 624 ) ( -3904 1152 624 ) ( -3904 1024 656 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1263
+// brush 1260
 {
 brushDef
 {
@@ -18001,7 +17965,7 @@ brushDef
 ( -3232 640 272 ) ( -3232 656 272 ) ( -3232 640 400 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1264
+// brush 1261
 {
 brushDef
 {
@@ -18013,7 +17977,7 @@ brushDef
 ( -3360 640 272 ) ( -3360 768 272 ) ( -3360 640 400 ) ( ( 0.015625 0 2 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1265
+// brush 1262
 {
 brushDef
 {
@@ -18025,7 +17989,7 @@ brushDef
 ( -3504 96 288 ) ( -3360 96 400 ) ( -3504 -32 288 ) ( ( 0.015625 0 2 ) ( 0 0.015625 121.75 ) ) trak4x/base-concrete5b 0 0 0
 }
 }
-// brush 1266
+// brush 1263
 {
 brushDef
 {
@@ -18037,7 +18001,7 @@ brushDef
 ( -3504 1152 656 ) ( -3520 1152 752 ) ( -3504 1152 752 ) ( ( 0.015625 0 2 ) ( 0 0.015625 124 ) ) exx/base-crete01 0 0 0
 }
 }
-// brush 1267
+// brush 1264
 {
 brushDef
 {
@@ -18049,7 +18013,7 @@ brushDef
 ( -3504 1024 656 ) ( -3520 1024 752 ) ( -3520 1024 656 ) ( ( 0.015625 0 2 ) ( 0 0.015625 124 ) ) exx/base-crete01 0 0 0
 }
 }
-// brush 1268
+// brush 1265
 {
 brushDef
 {
@@ -18061,19 +18025,19 @@ brushDef
 ( -3520 1072 752 ) ( -3520 1152 752 ) ( -3520 1072 768 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0.125 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
 }
 }
-// brush 1269
+// brush 1266
 {
 brushDef
 {
 ( -4912 640 752 ) ( -4912 512 752 ) ( -4928 640 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-( -4912 640 704 ) ( -4928 640 704 ) ( -4912 640 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4912 640 752 ) ( -4912 640 320 ) ( -4912 512 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -4912 640 784 ) ( -4928 640 784 ) ( -4912 640 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/base-metal01 0 0 0
+( -4912 640 752 ) ( -4912 640 320 ) ( -4912 512 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
 ( -4928 512 272 ) ( -4928 512 704 ) ( -4912 512 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4928 512 272 ) ( -4928 640 272 ) ( -4928 512 704 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -4928 592 400 ) ( -3504 528 400 ) ( -3504 592 400 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4928 512 272 ) ( -4928 640 272 ) ( -4928 512 704 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -4928 576 432 ) ( -3504 512 432 ) ( -3504 576 432 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1270
+// brush 1267
 {
 brushDef
 {
@@ -18085,23 +18049,11 @@ brushDef
 ( -4928 592 400 ) ( -3504 528 400 ) ( -3504 592 400 ) ( ( 0 0.0625 -0 ) ( -0.03125 0 0.8000001907 ) ) trak4x/trim-trim1f 0 0 0
 }
 }
-// brush 1271
+// brush 1268
 {
 brushDef
 {
-( -3504 624 480 ) ( -3504 560 480 ) ( -4928 624 480 ) ( ( 0.015625 0 255.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
-( -3504 608 368 ) ( -4928 608 368 ) ( -3504 608 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
-( -3520 576 288 ) ( -3520 576 272 ) ( -3520 512 288 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
-( -4928 544 352 ) ( -4928 544 368 ) ( -3504 544 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
-( -4928 512 272 ) ( -4928 576 272 ) ( -4928 512 288 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
-( -4928 592 384 ) ( -3504 528 384 ) ( -3504 592 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
-}
-}
-// brush 1272
-{
-brushDef
-{
-( -3504 592 480 ) ( -3504 528 480 ) ( -4928 592 480 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3504 576 400 ) ( -3504 512 400 ) ( -4928 576 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 ( -3504 640 288 ) ( -4928 640 288 ) ( -3504 640 272 ) ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) exx/base-metal01 0 0 0
 ( -3520 576 288 ) ( -3520 576 272 ) ( -3520 512 288 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 ( -4928 512 272 ) ( -3504 512 272 ) ( -4928 576 272 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
@@ -18109,7 +18061,7 @@ brushDef
 ( -3504 608 352 ) ( -4928 608 368 ) ( -3504 608 368 ) ( ( -0.015625 0 468 ) ( 0 0.015625 501.125 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1273
+// brush 1269
 {
 brushDef
 {
@@ -18121,7 +18073,7 @@ brushDef
 ( -4112 512 376 ) ( -4112 544 264 ) ( -4112 544 376 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1274
+// brush 1270
 {
 brushDef
 {
@@ -18133,7 +18085,7 @@ brushDef
 ( -4176 512 384 ) ( -4176 544 272 ) ( -4176 512 272 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1275
+// brush 1271
 {
 patchDef2
 {
@@ -18146,7 +18098,7 @@ exx/base-metal01
 )
 }
 }
-// brush 1276
+// brush 1272
 {
 patchDef2
 {
@@ -18161,7 +18113,7 @@ exx/base-metal01
 )
 }
 }
-// brush 1277
+// brush 1273
 {
 patchDef2
 {
@@ -18174,7 +18126,7 @@ exx/base-metal01
 )
 }
 }
-// brush 1278
+// brush 1274
 {
 patchDef2
 {
@@ -18187,7 +18139,7 @@ exx/base-metal01
 )
 }
 }
-// brush 1279
+// brush 1275
 {
 brushDef
 {
@@ -18199,7 +18151,7 @@ brushDef
 ( -3504 864 272 ) ( -3520 864 400 ) ( -3504 864 400 ) ( ( -0.0625 0 -0 ) ( -0 -0.03125 0.8000001907 ) ) trak4x/trim-trim1f 0 0 0
 }
 }
-// brush 1280
+// brush 1276
 {
 brushDef
 {
@@ -18211,7 +18163,7 @@ brushDef
 ( -3504 784 272 ) ( -3520 784 400 ) ( -3520 784 272 ) ( ( -0.0625 0 -0 ) ( -0 -0.03125 0.8000001907 ) ) trak4x/trim-trim1f 0 0 0
 }
 }
-// brush 1281
+// brush 1277
 {
 brushDef
 {
@@ -18223,7 +18175,7 @@ brushDef
 ( -3616 640 272 ) ( -3616 864 208 ) ( -3616 864 272 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1282
+// brush 1278
 {
 patchDef2
 {
@@ -18242,7 +18194,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1283
+// brush 1279
 {
 patchDef2
 {
@@ -18261,7 +18213,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1284
+// brush 1280
 {
 patchDef2
 {
@@ -18280,7 +18232,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1285
+// brush 1281
 {
 patchDef2
 {
@@ -18299,19 +18251,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1286
-{
-brushDef
-{
-( -4256 640 752 ) ( -4256 624 752 ) ( -4304 640 752 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/clip 0 0 0
-( -4240 640 736 ) ( -4288 640 736 ) ( -4240 640 672 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
-( -4128 640 736 ) ( -4128 640 672 ) ( -4128 624 736 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/clip 0 0 0
-( -4288 624 688 ) ( -4240 624 688 ) ( -4288 640 688 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/clip 0 0 0
-( -4288 624 672 ) ( -4288 624 736 ) ( -4240 624 672 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
-( -4288 624 688 ) ( -4288 640 688 ) ( -4288 624 752 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/clip 0 0 0
-}
-}
-// brush 1287
+// brush 1282
 {
 brushDef
 {
@@ -18323,7 +18263,7 @@ brushDef
 ( -4912 640 208 ) ( -4912 896 208 ) ( -4912 640 224 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1288
+// brush 1283
 {
 brushDef
 {
@@ -18335,7 +18275,7 @@ brushDef
 ( -3520 784 256 ) ( -3520 864 256 ) ( -3520 784 272 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1289
+// brush 1284
 {
 brushDef
 {
@@ -18347,7 +18287,7 @@ brushDef
 ( -4912 896 176 ) ( -4912 960 176 ) ( -4912 896 208 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0 ) ) map_rainbow_factory/slime_red 0 0 0
 }
 }
-// brush 1290
+// brush 1285
 {
 patchDef2
 {
@@ -18366,7 +18306,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1291
+// brush 1286
 {
 patchDef2
 {
@@ -18385,7 +18325,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1292
+// brush 1287
 {
 patchDef2
 {
@@ -18404,7 +18344,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1293
+// brush 1288
 {
 patchDef2
 {
@@ -18423,7 +18363,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1294
+// brush 1289
 {
 patchDef2
 {
@@ -18442,7 +18382,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1295
+// brush 1290
 {
 patchDef2
 {
@@ -18461,7 +18401,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1296
+// brush 1291
 {
 patchDef2
 {
@@ -18480,7 +18420,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1297
+// brush 1292
 {
 patchDef2
 {
@@ -18499,7 +18439,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1298
+// brush 1293
 {
 patchDef2
 {
@@ -18518,7 +18458,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1299
+// brush 1294
 {
 patchDef2
 {
@@ -18537,7 +18477,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1300
+// brush 1295
 {
 patchDef2
 {
@@ -18556,7 +18496,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1301
+// brush 1296
 {
 patchDef2
 {
@@ -18575,7 +18515,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1302
+// brush 1297
 {
 patchDef2
 {
@@ -18594,7 +18534,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1303
+// brush 1298
 {
 patchDef2
 {
@@ -18613,7 +18553,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1304
+// brush 1299
 {
 patchDef2
 {
@@ -18632,7 +18572,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1305
+// brush 1300
 {
 patchDef2
 {
@@ -18651,7 +18591,7 @@ exx/base-metal06rust
 )
 }
 }
-// brush 1306
+// brush 1301
 {
 brushDef
 {
@@ -18663,7 +18603,7 @@ brushDef
 ( -3520 512 384 ) ( -3520 640 384 ) ( -3520 512 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 254 ) ) common/caulk 0 0 0
 }
 }
-// brush 1307
+// brush 1302
 {
 brushDef
 {
@@ -18675,19 +18615,7 @@ brushDef
 ( -3520 608 280 ) ( -3520 640 280 ) ( -3520 608 376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.875 ) ) common/caulk 0 0 0
 }
 }
-// brush 1308
-{
-brushDef
-{
-( -4112 544 392 ) ( -4112 512 392 ) ( -4176 544 392 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
-( -4112 544 392 ) ( -4176 544 392 ) ( -4112 544 384 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
-( -4112 544 392 ) ( -4112 544 384 ) ( -4112 512 392 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
-( -4176 512 384 ) ( -4112 512 384 ) ( -4176 544 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
-( -4176 512 384 ) ( -4176 512 392 ) ( -4112 512 384 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
-( -4176 512 384 ) ( -4176 544 384 ) ( -4176 512 392 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
-}
-}
-// brush 1309
+// brush 1303
 {
 brushDef
 {
@@ -18699,7 +18627,7 @@ brushDef
 ( -4040 1280 1024 ) ( -4040 1280 1136 ) ( -4040 1264 1024 ) ( ( 0.015625 0 12 ) ( 0 -0.015625 455.125 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1310
+// brush 1304
 {
 brushDef
 {
@@ -18711,7 +18639,7 @@ brushDef
 ( -4152 1576 1136 ) ( -4048 1576 1136 ) ( -4152 1592 1136 ) ( ( 0.015625 0 496.125 ) ( 0 -0.015625 46.75 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1311
+// brush 1305
 {
 brushDef
 {
@@ -18723,7 +18651,7 @@ brushDef
 ( -4152 1264 1136 ) ( -4152 1280 1136 ) ( -4152 1264 1024 ) ( ( -0.015625 0 12 ) ( 0 0.015625 56.875 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1312
+// brush 1306
 {
 brushDef
 {
@@ -18735,7 +18663,7 @@ brushDef
 ( -4040 1616 800 ) ( -4040 1728 800 ) ( -4040 1616 816 ) ( ( 0.015625 0 12.75 ) ( 0 -0.015625 447.5 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1313
+// brush 1307
 {
 brushDef
 {
@@ -18747,7 +18675,7 @@ brushDef
 ( -4152 1728 1224 ) ( -4048 1728 1224 ) ( -4152 1728 1208 ) ( ( 0 0.015625 27.875 ) ( 0.015625 0 46.75 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1314
+// brush 1308
 {
 brushDef
 {
@@ -18759,7 +18687,7 @@ brushDef
 ( -4152 1728 336 ) ( -4152 1728 320 ) ( -4152 1616 336 ) ( ( 0 -0.015625 499 ) ( -0.015625 0 66.125 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1315
+// brush 1309
 {
 brushDef
 {
@@ -18771,7 +18699,7 @@ brushDef
 ( -4048 1616 1088 ) ( -4048 1616 1104 ) ( -4152 1616 1088 ) ( ( 0 -0.015625 486 ) ( -0.015625 0 46.75 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1316
+// brush 1310
 {
 brushDef
 {
@@ -18783,7 +18711,7 @@ brushDef
 ( -4152 1608 952 ) ( -4040 1584 952 ) ( -4040 1608 952 ) ( ( 0.03125 0 224 ) ( 0 -0.03125 93.5 ) ) common/caulk 0 0 0
 }
 }
-// brush 1317
+// brush 1311
 {
 brushDef
 {
@@ -18795,7 +18723,7 @@ brushDef
 ( -4160 1584 960 ) ( -4152 1552 960 ) ( -4152 1584 960 ) ( ( 0.03125 0 225 ) ( 0 -0.03125 93.5 ) ) common/caulk 0 0 0
 }
 }
-// brush 1318
+// brush 1312
 {
 brushDef
 {
@@ -18807,7 +18735,7 @@ brushDef
 ( -4040 1600 960 ) ( -4032 1568 960 ) ( -4032 1600 960 ) ( ( 0.03125 0 224.5 ) ( 0 -0.03125 93.5 ) ) common/caulk 0 0 0
 }
 }
-// brush 1319
+// brush 1313
 {
 brushDef
 {
@@ -18819,7 +18747,7 @@ brushDef
 ( -4152 1560 960 ) ( -4040 1552 960 ) ( -4040 1560 960 ) ( ( 0.03125 0 224.75 ) ( 0 -0.03125 93.5 ) ) common/caulk 0 0 0
 }
 }
-// brush 1320
+// brush 1314
 {
 patchDef2
 {
@@ -18832,7 +18760,7 @@ exx/base-metal01
 )
 }
 }
-// brush 1321
+// brush 1315
 {
 patchDef2
 {
@@ -18845,7 +18773,7 @@ exx/base-metal01
 )
 }
 }
-// brush 1322
+// brush 1316
 {
 brushDef
 {
@@ -18857,7 +18785,7 @@ brushDef
 ( -4152 1456 1016 ) ( -4040 1424 1016 ) ( -4040 1456 1016 ) ( ( 0.03125 0 227 ) ( 0 -0.03125 93.25 ) ) common/caulk 0 0 0
 }
 }
-// brush 1323
+// brush 1317
 {
 brushDef
 {
@@ -18869,7 +18797,7 @@ brushDef
 ( -4152 1168 1136 ) ( -4152 1272 1136 ) ( -4152 1168 1144 ) ( ( 0.015625 0 0.125 ) ( 0 0.015625 255.875 ) ) common/caulk 0 0 0
 }
 }
-// brush 1324
+// brush 1318
 {
 brushDef
 {
@@ -18881,7 +18809,7 @@ brushDef
 ( -4080 1168 1152 ) ( -4080 1264 1152 ) ( -4080 1168 1160 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) common/caulk 0 0 0
 }
 }
-// brush 1325
+// brush 1319
 {
 patchDef2
 {
@@ -18894,7 +18822,7 @@ exx/base-metal01
 )
 }
 }
-// brush 1326
+// brush 1320
 {
 brushDef
 {
@@ -18906,7 +18834,7 @@ brushDef
 ( -4152 1128 1024 ) ( -4152 1136 1024 ) ( -4152 1128 1136 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.875 ) ) common/caulk 0 0 0
 }
 }
-// brush 1327
+// brush 1321
 {
 patchDef2
 {
@@ -18919,7 +18847,7 @@ exx/base-metal01
 )
 }
 }
-// brush 1328
+// brush 1322
 {
 patchDef2
 {
@@ -18932,7 +18860,7 @@ exx/base-metal01
 )
 }
 }
-// brush 1329
+// brush 1323
 {
 brushDef
 {
@@ -18944,7 +18872,7 @@ brushDef
 ( -4160 1568 624 ) ( -4160 1688 624 ) ( -4160 1568 632 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1330
+// brush 1324
 {
 brushDef
 {
@@ -18956,7 +18884,7 @@ brushDef
 ( -4040 1536 648 ) ( -4040 1600 648 ) ( -4040 1536 808 ) ( ( 0.015625 0 12.5 ) ( 0 -0.015625 447.375 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1331
+// brush 1325
 {
 brushDef
 {
@@ -18968,7 +18896,7 @@ brushDef
 ( -4160 1536 632 ) ( -4160 1616 632 ) ( -4160 1536 776 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) common/caulk 0 0 0
 }
 }
-// brush 1332
+// brush 1326
 {
 brushDef
 {
@@ -18980,31 +18908,31 @@ brushDef
 ( -4032 1520 632 ) ( -4032 1536 624 ) ( -4032 1536 632 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) common/caulk 0 0 0
 }
 }
-// brush 1333
+// brush 1327
 {
 brushDef
 {
-( -3520 1536 752 ) ( -3792 1536 752 ) ( -3520 1536 464 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -3344 1536 752 ) ( -3616 1536 752 ) ( -3344 1536 464 ) ( ( 0.03125 0 5.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -5072 1520 272 ) ( -4800 1520 272 ) ( -5072 1536 272 ) ( ( 0.03125 0 0 ) ( 0 0.03125 216 ) ) common/caulk 0 0 0
 ( -3792 1520 464 ) ( -3792 1520 752 ) ( -3520 1520 464 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
-( -5104 1520 240 ) ( -5104 1536 240 ) ( -5104 1520 528 ) ( ( 0.03125 0 0 ) ( 0 0.03125 249 ) ) common/caulk 0 0 0
+( -4928 1520 240 ) ( -4928 1536 240 ) ( -4928 1520 528 ) ( ( 0.03125 0 0 ) ( 0 0.03125 249 ) ) common/caulk 0 0 0
 ( -4032 1536 632 ) ( -4032 1536 624 ) ( -4032 1520 632 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) common/caulk 0 0 0
 ( -4152 1536 624 ) ( -4040 1520 624 ) ( -4152 1520 624 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.625 ) ) common/caulk 0 0 0
 }
 }
-// brush 1334
+// brush 1328
 {
 brushDef
 {
 ( -3520 1536 752 ) ( -3520 1520 752 ) ( -3792 1536 752 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
-( -3520 1536 752 ) ( -3792 1536 752 ) ( -3520 1536 464 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -3344 1536 752 ) ( -3616 1536 752 ) ( -3344 1536 464 ) ( ( 0.03125 0 5.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -3792 1520 464 ) ( -3792 1520 752 ) ( -3520 1520 464 ) ( ( 0.0078125 0 -0.5 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
-( -5104 1520 240 ) ( -5104 1536 240 ) ( -5104 1520 528 ) ( ( 0.03125 0 0 ) ( 0 0.03125 249 ) ) common/caulk 0 0 0
+( -4928 1520 240 ) ( -4928 1536 240 ) ( -4928 1520 528 ) ( ( 0.03125 0 0 ) ( 0 0.03125 249 ) ) common/caulk 0 0 0
 ( -4152 1520 624 ) ( -4040 1520 624 ) ( -4152 1536 624 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.625 ) ) common/caulk 0 0 0
 ( -4160 1520 632 ) ( -4160 1536 624 ) ( -4160 1520 624 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) common/caulk 0 0 0
 }
 }
-// brush 1335
+// brush 1329
 {
 brushDef
 {
@@ -19016,7 +18944,7 @@ brushDef
 ( -4152 1520 744 ) ( -4152 1536 744 ) ( -4152 1520 752 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 255.875 ) ) common/caulk 0 0 0
 }
 }
-// brush 1336
+// brush 1330
 {
 brushDef
 {
@@ -19028,7 +18956,7 @@ brushDef
 ( -4152 1552 808 ) ( -4152 1608 808 ) ( -4152 1552 816 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1337
+// brush 1331
 {
 patchDef2
 {
@@ -19041,7 +18969,7 @@ exx/base-metal01
 )
 }
 }
-// brush 1338
+// brush 1332
 {
 patchDef2
 {
@@ -19060,7 +18988,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1339
+// brush 1333
 {
 patchDef2
 {
@@ -19079,7 +19007,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1340
+// brush 1334
 {
 patchDef2
 {
@@ -19098,7 +19026,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1341
+// brush 1335
 {
 patchDef2
 {
@@ -19117,7 +19045,7 @@ exx/base-metal05rust
 )
 }
 }
-// brush 1342
+// brush 1336
 {
 brushDef
 {
@@ -19129,7 +19057,7 @@ brushDef
 ( -4144 1136 592 ) ( -4144 1520 592 ) ( -4144 1136 624 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1343
+// brush 1337
 {
 brushDef
 {
@@ -19141,7 +19069,7 @@ brushDef
 ( -3920 1152 656 ) ( -4080 1152 752 ) ( -3920 1152 752 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1344
+// brush 1338
 {
 brushDef
 {
@@ -19153,7 +19081,7 @@ brushDef
 ( -4096 1040 656 ) ( -3936 1024 656 ) ( -4096 1024 656 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1345
+// brush 1339
 {
 brushDef
 {
@@ -19165,7 +19093,7 @@ brushDef
 ( -3920 1024 656 ) ( -4080 1024 752 ) ( -4080 1024 656 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1346
+// brush 1340
 {
 brushDef
 {
@@ -19177,7 +19105,7 @@ brushDef
 ( -4144 1008 800 ) ( -4144 1024 704 ) ( -4144 1008 704 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.75 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1347
+// brush 1341
 {
 brushDef
 {
@@ -19189,7 +19117,7 @@ brushDef
 ( -4160 992 800 ) ( -4160 1008 704 ) ( -4160 992 704 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1348
+// brush 1342
 {
 brushDef
 {
@@ -19201,7 +19129,7 @@ brushDef
 ( -3952 1008 688 ) ( -4112 1008 784 ) ( -4112 1008 688 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1349
+// brush 1343
 {
 brushDef
 {
@@ -19213,7 +19141,7 @@ brushDef
 ( -3904 512 752 ) ( -3904 1520 752 ) ( -3904 512 768 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1350
+// brush 1344
 {
 brushDef
 {
@@ -19225,7 +19153,7 @@ brushDef
 ( -3904 1456 768 ) ( -3904 1456 752 ) ( -3904 960 768 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1351
+// brush 1345
 {
 brushDef
 {
@@ -19237,7 +19165,7 @@ brushDef
 ( -4080 1024 752 ) ( -3920 1008 752 ) ( -3920 1024 752 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.75 ) ) exx/base-metal01 0 0 0
 }
 }
-// brush 1352
+// brush 1346
 {
 brushDef
 {
@@ -19249,7 +19177,7 @@ brushDef
 ( -4144 1152 752 ) ( -4144 1168 752 ) ( -4144 1152 768 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1353
+// brush 1347
 {
 brushDef
 {
@@ -19261,7 +19189,7 @@ brushDef
 ( -3920 880 752 ) ( -3920 1008 752 ) ( -3920 880 768 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1354
+// brush 1348
 {
 brushDef
 {
@@ -19273,7 +19201,7 @@ brushDef
 ( -4144 1168 624 ) ( -4144 1184 624 ) ( -4144 1168 640 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1355
+// brush 1349
 {
 brushDef
 {
@@ -19285,7 +19213,7 @@ brushDef
 ( -4152 1136 1016 ) ( -4152 1264 1016 ) ( -4152 1136 1024 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1356
+// brush 1350
 {
 brushDef
 {
@@ -19297,7 +19225,7 @@ brushDef
 ( -4080 1264 1136 ) ( -4080 1280 1136 ) ( -4080 1264 1152 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1357
+// brush 1351
 {
 brushDef
 {
@@ -19309,7 +19237,7 @@ brushDef
 ( -3960 80 1064 ) ( -3960 112 1064 ) ( -3960 80 1168 ) ( ( 0 0.015625 -0.109375 ) ( -0.015625 0 0 ) ) techpanelx/panel-tech4 0 0 0
 }
 }
-// brush 1358
+// brush 1352
 {
 brushDef
 {
@@ -19321,7 +19249,7 @@ brushDef
 ( -4080 56 992 ) ( -4080 96 992 ) ( -4080 56 1024 ) ( ( 0.015625 0 254.5 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
-// brush 1359
+// brush 1353
 {
 brushDef
 {
@@ -19333,7 +19261,7 @@ brushDef
 ( -4896 624 224 ) ( -4896 880 224 ) ( -4896 624 272 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/clip 0 0 0
 }
 }
-// brush 1360
+// brush 1354
 {
 patchDef2
 {
@@ -19346,7 +19274,7 @@ trak4x/base-concrete4a
 )
 }
 }
-// brush 1361
+// brush 1355
 {
 patchDef2
 {
@@ -19357,6 +19285,813 @@ trak4x/base-concrete4a
 ( ( -4000 896 272 0.1875 -0.25 ) ( -4000 896 248 0.1875 -0.0625 ) ( -4000 896 224 0.1875 0.125 ) )
 ( ( -3976 896 272 0.375 -0.25 ) ( -3976 896 248 0.375 -0.0625 ) ( -3976 896 224 0.375 0.125 ) )
 )
+}
+}
+// brush 1356
+{
+brushDef
+{
+( -4928 512 752 ) ( -4928 496 752 ) ( -5104 512 752 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4928 512 752 ) ( -5104 512 752 ) ( -4928 512 272 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -4928 512 752 ) ( -4928 512 272 ) ( -4928 496 752 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -5104 496 272 ) ( -4928 496 272 ) ( -5104 512 272 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -5104 496 272 ) ( -5104 496 752 ) ( -4928 496 272 ) ( ( 0.0078125 0 -0.25 ) ( -0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -5104 496 272 ) ( -5104 512 272 ) ( -5104 496 752 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1357
+{
+brushDef
+{
+( -4928 1536 752 ) ( -4928 1520 752 ) ( -5104 1536 752 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4928 1536 752 ) ( -5104 1536 752 ) ( -4928 1536 272 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4928 1536 752 ) ( -4928 1536 272 ) ( -4928 1520 752 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -5104 1520 272 ) ( -4928 1520 272 ) ( -5104 1536 272 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -5104 1520 272 ) ( -5104 1520 752 ) ( -4928 1520 272 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -5104 1520 272 ) ( -5104 1536 272 ) ( -5104 1520 752 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1358
+{
+brushDef
+{
+( -5104 384 704 ) ( -5104 368 704 ) ( -5120 384 704 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -5100 376 704 ) ( -5116 376 704 ) ( -5100 376 576 ) ( ( 0.015625 0 0.0625 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -5104 384 704 ) ( -5104 384 576 ) ( -5104 368 704 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -5120 368 576 ) ( -5104 368 576 ) ( -5120 384 576 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -5120 360 576 ) ( -5120 360 704 ) ( -5104 360 576 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -5120 368 576 ) ( -5120 384 576 ) ( -5120 368 704 ) ( ( 0.015625 0 0.25 ) ( 0 0.015625 5.5 ) ) exx/base-metal05rust 0 0 0
+}
+}
+// brush 1359
+{
+brushDef
+{
+( -4912 1520 752 ) ( -4912 880 752 ) ( -4928 1520 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4912 1520 704 ) ( -4928 1520 704 ) ( -4912 1520 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4912 1520 752 ) ( -4912 1520 320 ) ( -4912 880 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -4928 896 272 ) ( -4928 896 704 ) ( -4912 896 272 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 880 272 ) ( -4928 1520 272 ) ( -4928 880 704 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -4928 864 624 ) ( -4896 640 624 ) ( -4896 864 624 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1360
+{
+brushDef
+{
+( -4912 1520 752 ) ( -4912 1520 320 ) ( -4912 880 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -4928 880 272 ) ( -4912 880 272 ) ( -4928 1520 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 896 272 ) ( -4928 896 704 ) ( -4912 896 272 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 880 272 ) ( -4928 1520 272 ) ( -4928 880 704 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -4896 1024 624 ) ( -4928 1024 624 ) ( -4896 1024 496 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4928 864 496 ) ( -4896 640 496 ) ( -4928 640 496 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1361
+{
+brushDef
+{
+( -4912 896 752 ) ( -4912 640 752 ) ( -4928 896 752 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4912 896 704 ) ( -4928 896 704 ) ( -4912 896 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4912 896 752 ) ( -4912 896 320 ) ( -4912 640 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -4928 640 272 ) ( -4928 640 704 ) ( -4912 640 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 640 272 ) ( -4928 896 272 ) ( -4928 640 704 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -4928 864 624 ) ( -4896 640 624 ) ( -4896 864 624 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1362
+{
+brushDef
+{
+( -4912 1520 704 ) ( -4928 1520 704 ) ( -4912 1520 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4912 1520 752 ) ( -4912 1520 320 ) ( -4912 880 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -4928 880 272 ) ( -4912 880 272 ) ( -4928 1520 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 880 272 ) ( -4928 1520 272 ) ( -4928 880 704 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -4896 864 624 ) ( -4896 640 624 ) ( -4928 864 624 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4896 1408 496 ) ( -4928 1408 624 ) ( -4896 1408 624 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1363
+{
+brushDef
+{
+( -4912 1520 752 ) ( -4912 1520 320 ) ( -4912 880 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -4928 880 272 ) ( -4912 880 272 ) ( -4928 1520 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 880 272 ) ( -4928 1520 272 ) ( -4928 880 704 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -4896 1024 496 ) ( -4928 1024 624 ) ( -4896 1024 624 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4896 1408 624 ) ( -4928 1408 624 ) ( -4896 1408 496 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4928 1376 496 ) ( -4896 1152 496 ) ( -4928 1152 496 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1364
+{
+brushDef
+{
+( -4912 1520 752 ) ( -4912 1520 320 ) ( -4912 880 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -4928 880 272 ) ( -4928 1520 272 ) ( -4928 880 704 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -4896 864 624 ) ( -4896 640 624 ) ( -4928 864 624 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4896 1024 496 ) ( -4928 1024 624 ) ( -4896 1024 624 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/base-metal01 0 0 0
+( -4928 1152 496 ) ( -4896 1152 496 ) ( -4928 1376 496 ) ( ( 0.015625 0 248 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4896 1152 496 ) ( -4928 1152 624 ) ( -4928 1152 496 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1365
+{
+brushDef
+{
+( -3520 640 480 ) ( -3520 624 480 ) ( -4928 640 480 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3520 640 464 ) ( -4928 640 464 ) ( -3520 640 400 ) ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) exx/base-metal01 0 0 0
+( -3520 640 464 ) ( -3520 640 400 ) ( -3520 624 464 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4928 624 400 ) ( -3520 624 400 ) ( -4928 640 400 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4928 624 400 ) ( -4928 624 464 ) ( -3520 624 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4912 624 400 ) ( -4912 640 400 ) ( -4912 624 464 ) ( ( 0.015625 0 0.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1366
+{
+brushDef
+{
+( -4944 1504 272 ) ( -4944 1344 272 ) ( -5056 1504 272 ) ( ( 0 0.0078125 -0.3125 ) ( -0.0078125 0 0.6875 ) ) exx/floor-crete01-phoenix 0 0 0
+( -4944 1504 272 ) ( -5056 1504 272 ) ( -4944 1504 256 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4948 1508 272 ) ( -4948 1508 256 ) ( -4948 1348 272 ) ( ( 0.015625 0 255.9375 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -5056 1344 256 ) ( -4944 1344 256 ) ( -5056 1504 256 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -5040 1360 256 ) ( -5040 1360 272 ) ( -4928 1360 256 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -5084 1344 256 ) ( -5084 1504 256 ) ( -5084 1344 272 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1367
+{
+brushDef
+{
+( -5104 1504 272 ) ( -5104 1072 272 ) ( -5120 1504 272 ) ( ( 0 0.0078125 -0.3125 ) ( -0.0078125 0 0.6875 ) ) exx/floor-crete01 0 0 0
+( -5104 1520 272 ) ( -5120 1520 272 ) ( -5104 1520 160 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4912 1504 272 ) ( -4912 1504 160 ) ( -4912 1072 272 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -5120 1104 160 ) ( -5104 1104 160 ) ( -5120 1536 160 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -5104 1072 160 ) ( -5104 1504 160 ) ( -5104 1072 272 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4944 1504 256 ) ( -5056 1504 272 ) ( -4944 1504 272 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1368
+{
+brushDef
+{
+( -5104 1504 272 ) ( -5104 1072 272 ) ( -5120 1504 272 ) ( ( 0 0.0078125 -0.3125 ) ( -0.0078125 0 0.6875 ) ) exx/floor-crete01 0 0 0
+( -4912 1504 272 ) ( -4912 1504 160 ) ( -4912 1072 272 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -5120 1104 160 ) ( -5104 1104 160 ) ( -5120 1536 160 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -5120 1360 160 ) ( -5120 1360 272 ) ( -5104 1360 160 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4944 1504 272 ) ( -5056 1504 272 ) ( -4944 1504 256 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4948 1344 272 ) ( -4948 1504 256 ) ( -4948 1504 272 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1369
+{
+brushDef
+{
+( -5120 1104 160 ) ( -5104 1104 160 ) ( -5120 1536 160 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -5120 896 160 ) ( -5120 896 272 ) ( -5104 896 160 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -5104 1072 160 ) ( -5104 1504 160 ) ( -5104 1072 272 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4968 1360 272 ) ( -5080 1360 272 ) ( -4968 1360 256 ) ( ( 0.015625 0 255.625 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4912 1480 272 ) ( -4912 1480 256 ) ( -4912 1320 272 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -5056 1504 256 ) ( -4944 1344 256 ) ( -5056 1344 256 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1370
+{
+brushDef
+{
+( -5104 1504 272 ) ( -5104 1072 272 ) ( -5120 1504 272 ) ( ( 0 0.0078125 -0.3125 ) ( -0.0078125 0 0.6875 ) ) exx/floor-crete01 0 0 0
+( -5120 896 160 ) ( -5120 896 272 ) ( -5104 896 160 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -5104 1072 160 ) ( -5104 1504 160 ) ( -5104 1072 272 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4912 1496 272 ) ( -4912 1496 256 ) ( -4912 1336 272 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -5056 1344 256 ) ( -4944 1344 256 ) ( -5056 1504 256 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4928 1360 256 ) ( -5040 1360 272 ) ( -5040 1360 256 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1371
+{
+brushDef
+{
+( -5104 1504 272 ) ( -5104 1072 272 ) ( -5120 1504 272 ) ( ( 0 0.0078125 -0.3125 ) ( -0.0078125 0 0.6875 ) ) exx/floor-crete01 0 0 0
+( -5104 1072 160 ) ( -5104 1504 160 ) ( -5104 1072 272 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4944 1504 272 ) ( -5056 1504 272 ) ( -4944 1504 256 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -5056 1344 256 ) ( -4944 1344 256 ) ( -5056 1504 256 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -5040 1360 256 ) ( -5040 1360 272 ) ( -4928 1360 256 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -5084 1340 272 ) ( -5084 1500 256 ) ( -5084 1340 256 ) ( ( 0.015625 0 0.0625 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1372
+{
+brushDef
+{
+( -4912 1376 624 ) ( -4912 1152 624 ) ( -4928 1376 624 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
+( -4896 1408 624 ) ( -4912 1408 624 ) ( -4896 1408 496 ) ( ( 0.015625 0 0.25 ) ( 0 0.015625 0 ) ) common/clip 0 0 0
+( -4912 1376 624 ) ( -4912 1376 496 ) ( -4912 1152 624 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
+( -4928 1152 496 ) ( -4912 1152 496 ) ( -4928 1376 496 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
+( -4928 1152 496 ) ( -4928 1152 624 ) ( -4912 1152 496 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
+( -4928 1152 496 ) ( -4928 1376 496 ) ( -4928 1152 624 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
+}
+}
+// brush 1373
+{
+brushDef
+{
+( -4912 1008 624 ) ( -4912 640 624 ) ( -4928 1008 624 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
+( -4912 1024 624 ) ( -4928 1024 624 ) ( -4912 1024 496 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/clip 0 0 0
+( -4912 1024 624 ) ( -4912 1024 496 ) ( -4912 656 624 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/clip 0 0 0
+( -4928 640 496 ) ( -4912 640 496 ) ( -4928 1008 496 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
+( -4928 640 496 ) ( -4928 640 624 ) ( -4912 640 496 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
+( -4928 640 496 ) ( -4928 1008 496 ) ( -4928 640 624 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/clip 0 0 0
+}
+}
+// brush 1374
+{
+brushDef
+{
+( -4912 1104 424 ) ( -5008 1088 424 ) ( -5008 1104 424 ) ( ( -0.03125 0 248.5 ) ( 0 0.03125 22.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5008 1120 408 ) ( -4912 1120 424 ) ( -5008 1120 424 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 252.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5008 1088 424 ) ( -5008 1104 408 ) ( -5008 1104 424 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 252.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4912 1104 408 ) ( -5008 1088 408 ) ( -4912 1088 408 ) ( ( 0.015625 0 3.75 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+( -5008 1088 408 ) ( -4912 1088 424 ) ( -4912 1088 408 ) ( ( -0.03125 0 230.5 ) ( 0 0.03125 252.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4928 1088 424 ) ( -4928 1104 408 ) ( -4928 1088 408 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
+}
+}
+// brush 1375
+{
+brushDef
+{
+( -5008 1120 448 ) ( -5072 1024 448 ) ( -5072 1120 448 ) ( ( -0.03125 0 0 ) ( 0 0.03125 25.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5104 1024 496 ) ( -5104 1120 272 ) ( -5104 1120 496 ) ( ( -0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -5056 1120 432 ) ( -5120 1024 432 ) ( -5056 1024 432 ) ( ( 0.015625 0 0 ) ( 0 -0.015625 158.25 ) ) exx/base-metal01 0 0 0
+( -5088 1088 272 ) ( -5024 1088 496 ) ( -5024 1088 272 ) ( ( -0.03125 0 228 ) ( 0 0.03125 253.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5008 1016 496 ) ( -5008 1112 272 ) ( -5008 1016 272 ) ( ( -0.03125 0 25.75 ) ( 0 0.03125 252 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5088 1520 392 ) ( -4912 1520 408 ) ( -5088 1520 408 ) ( ( -0.03125 0 86 ) ( 0 0.03125 252 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+}
+}
+// brush 1376
+{
+brushDef
+{
+( -4912 1136 400 ) ( -5008 1120 400 ) ( -5008 1136 400 ) ( ( -0.03125 0 249.5 ) ( 0 0.03125 22.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5008 1152 384 ) ( -4912 1152 400 ) ( -5008 1152 400 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 252 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5008 1120 400 ) ( -5008 1136 384 ) ( -5008 1136 400 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 250.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4912 1136 384 ) ( -5008 1120 384 ) ( -4912 1120 384 ) ( ( 0.015625 0 3.25 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+( -5008 1120 384 ) ( -4912 1120 400 ) ( -4912 1120 384 ) ( ( -0.03125 0 230.5 ) ( 0 0.03125 252 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4928 1120 400 ) ( -4928 1136 384 ) ( -4928 1120 384 ) ( ( -0.03125 0 22.5 ) ( 0 0.03125 252 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+}
+}
+// brush 1377
+{
+brushDef
+{
+( -4912 1168 376 ) ( -5008 1152 376 ) ( -5008 1168 376 ) ( ( -0.03125 0 250.5 ) ( 0 0.03125 22.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5008 1184 360 ) ( -4912 1184 376 ) ( -5008 1184 376 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 251.25 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5008 1152 376 ) ( -5008 1168 360 ) ( -5008 1168 376 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 252.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4912 1168 360 ) ( -5008 1152 360 ) ( -4912 1152 360 ) ( ( 0.015625 0 2.75 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+( -5008 1152 360 ) ( -4912 1152 376 ) ( -4912 1152 360 ) ( ( -0.03125 0 230.5 ) ( 0 0.03125 252.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4928 1152 376 ) ( -4928 1168 360 ) ( -4928 1152 360 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
+}
+}
+// brush 1378
+{
+brushDef
+{
+( -4912 1200 352 ) ( -5008 1184 352 ) ( -5008 1200 352 ) ( ( -0.03125 0 251.5 ) ( 0 0.03125 22.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5008 1216 336 ) ( -4912 1216 352 ) ( -5008 1216 352 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 250.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5008 1184 352 ) ( -5008 1200 336 ) ( -5008 1200 352 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 250.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4912 1200 336 ) ( -5008 1184 336 ) ( -4912 1184 336 ) ( ( 0.015625 0 2.25 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+( -5008 1184 336 ) ( -4912 1184 352 ) ( -4912 1184 336 ) ( ( -0.03125 0 230.5 ) ( 0 0.03125 252 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4928 1184 352 ) ( -4928 1200 336 ) ( -4928 1184 336 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
+}
+}
+// brush 1379
+{
+brushDef
+{
+( -4912 1232 328 ) ( -5008 1216 328 ) ( -5008 1232 328 ) ( ( -0.03125 0 252.5 ) ( 0 0.03125 22.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5008 1248 312 ) ( -4912 1248 328 ) ( -5008 1248 328 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 249.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5008 1216 328 ) ( -5008 1232 312 ) ( -5008 1232 328 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 252.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4912 1232 312 ) ( -5008 1216 312 ) ( -4912 1216 312 ) ( ( 0.015625 0 1.75 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+( -5008 1216 312 ) ( -4912 1216 328 ) ( -4912 1216 312 ) ( ( -0.03125 0 230.5 ) ( 0 0.03125 252.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4928 1216 328 ) ( -4928 1232 312 ) ( -4928 1216 312 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
+}
+}
+// brush 1380
+{
+brushDef
+{
+( -4912 1264 304 ) ( -5008 1248 304 ) ( -5008 1264 304 ) ( ( -0.03125 0 253.5 ) ( 0 0.03125 22.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5008 1280 288 ) ( -4912 1280 304 ) ( -5008 1280 304 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 249 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5008 1248 304 ) ( -5008 1264 288 ) ( -5008 1264 304 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 249 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4912 1264 288 ) ( -5008 1248 288 ) ( -4912 1248 288 ) ( ( 0.015625 0 1.25 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+( -5008 1248 288 ) ( -4912 1248 304 ) ( -4912 1248 288 ) ( ( -0.03125 0 230.5 ) ( 0 0.03125 249 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4928 1248 304 ) ( -4928 1264 288 ) ( -4928 1248 288 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.875 ) ) common/caulk 0 0 0
+}
+}
+// brush 1381
+{
+brushDef
+{
+( -4912 1120 448 ) ( -4976 1024 448 ) ( -4976 1120 448 ) ( ( -0.03125 0 0 ) ( 0 0.03125 22.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5024 1016 496 ) ( -5024 1112 272 ) ( -5024 1112 496 ) ( ( -0.03125 0 29 ) ( 0 0.03125 253.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4960 1120 432 ) ( -5024 1024 432 ) ( -4960 1024 432 ) ( ( 0.015625 0 0 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+( -4992 512 272 ) ( -4928 512 496 ) ( -4928 512 272 ) ( ( -0.03125 0 199 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 1024 496 ) ( -4928 1120 272 ) ( -4928 1024 272 ) ( ( -0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -5024 832 392 ) ( -4848 832 408 ) ( -5024 832 408 ) ( ( -0.03125 0 84 ) ( 0 0.03125 252 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+}
+}
+// brush 1382
+{
+brushDef
+{
+( -5104 816 424 ) ( -5104 832 424 ) ( -5008 816 424 ) ( ( 0.03125 0 188.5 ) ( 0 0.03125 25.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5104 800 424 ) ( -5008 800 424 ) ( -5104 800 408 ) ( ( 0.03125 0 86.5 ) ( 0 0.03125 252.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5104 816 424 ) ( -5104 816 408 ) ( -5104 832 424 ) ( ( 0.015625 0 33.75 ) ( 0 0.015625 255.625 ) ) common/caulk 0 0 0
+( -5008 832 408 ) ( -5104 832 408 ) ( -5008 816 408 ) ( ( -0.015625 0 33.75 ) ( 0 -0.015625 158.25 ) ) exx/base-metal01 0 0 0
+( -5008 832 408 ) ( -5008 832 424 ) ( -5104 832 408 ) ( ( 0.03125 0 227.5 ) ( 0 0.03125 252.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5024 832 408 ) ( -5024 816 408 ) ( -5024 832 424 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
+}
+}
+// brush 1383
+{
+brushDef
+{
+( -5104 784 400 ) ( -5104 800 400 ) ( -5008 784 400 ) ( ( 0.03125 0 189.5 ) ( 0 0.03125 25.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5104 768 400 ) ( -5008 768 400 ) ( -5104 768 384 ) ( ( 0.03125 0 86.5 ) ( 0 0.03125 252 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5104 784 400 ) ( -5104 784 384 ) ( -5104 800 400 ) ( ( 0.015625 0 33.25 ) ( 0 0.015625 255.25 ) ) common/caulk 0 0 0
+( -5008 800 384 ) ( -5104 800 384 ) ( -5008 784 384 ) ( ( -0.015625 0 33.25 ) ( 0 -0.015625 158.25 ) ) exx/base-metal01 0 0 0
+( -5008 800 384 ) ( -5008 800 400 ) ( -5104 800 384 ) ( ( 0.03125 0 227.5 ) ( 0 0.03125 252 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5024 800 384 ) ( -5024 784 384 ) ( -5024 800 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
+}
+}
+// brush 1384
+{
+brushDef
+{
+( -5104 752 376 ) ( -5104 768 376 ) ( -5008 752 376 ) ( ( 0.03125 0 190.5 ) ( 0 0.03125 25.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5104 736 376 ) ( -5008 736 376 ) ( -5104 736 360 ) ( ( 0.03125 0 86.5 ) ( 0 0.03125 251.25 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5104 752 376 ) ( -5104 752 360 ) ( -5104 768 376 ) ( ( 0.015625 0 32.75 ) ( 0 0.015625 254.875 ) ) common/caulk 0 0 0
+( -5008 768 360 ) ( -5104 768 360 ) ( -5008 752 360 ) ( ( -0.015625 0 32.75 ) ( 0 -0.015625 158.25 ) ) exx/base-metal01 0 0 0
+( -5008 768 360 ) ( -5008 768 376 ) ( -5104 768 360 ) ( ( 0.03125 0 227.5 ) ( 0 0.03125 252.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5024 768 360 ) ( -5024 752 360 ) ( -5024 768 376 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
+}
+}
+// brush 1385
+{
+brushDef
+{
+( -5104 720 352 ) ( -5104 736 352 ) ( -5008 720 352 ) ( ( 0.03125 0 191.5 ) ( 0 0.03125 25.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5104 704 352 ) ( -5008 704 352 ) ( -5104 704 336 ) ( ( 0.03125 0 86.5 ) ( 0 0.03125 250.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5104 720 352 ) ( -5104 720 336 ) ( -5104 736 352 ) ( ( 0.015625 0 32.25 ) ( 0 0.015625 254.5 ) ) common/caulk 0 0 0
+( -5008 736 336 ) ( -5104 736 336 ) ( -5008 720 336 ) ( ( -0.015625 0 32.25 ) ( 0 -0.015625 158.25 ) ) exx/base-metal01 0 0 0
+( -5008 736 336 ) ( -5008 736 352 ) ( -5104 736 336 ) ( ( 0.03125 0 227.5 ) ( 0 0.03125 252 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5024 736 336 ) ( -5024 720 336 ) ( -5024 736 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
+}
+}
+// brush 1386
+{
+brushDef
+{
+( -5104 688 328 ) ( -5104 704 328 ) ( -5008 688 328 ) ( ( 0.03125 0 192.5 ) ( 0 0.03125 25.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5104 672 328 ) ( -5008 672 328 ) ( -5104 672 312 ) ( ( 0.03125 0 86.5 ) ( 0 0.03125 249.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5104 688 328 ) ( -5104 688 312 ) ( -5104 704 328 ) ( ( 0.015625 0 31.75 ) ( 0 0.015625 254.125 ) ) common/caulk 0 0 0
+( -5008 704 312 ) ( -5104 704 312 ) ( -5008 688 312 ) ( ( -0.015625 0 31.75 ) ( 0 -0.015625 158.25 ) ) exx/base-metal01 0 0 0
+( -5008 704 312 ) ( -5008 704 328 ) ( -5104 704 312 ) ( ( 0.03125 0 227.5 ) ( 0 0.03125 252.75 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5024 704 312 ) ( -5024 688 312 ) ( -5024 704 328 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
+}
+}
+// brush 1387
+{
+brushDef
+{
+( -5104 656 304 ) ( -5104 672 304 ) ( -5008 656 304 ) ( ( 0.03125 0 193.5 ) ( 0 0.03125 25.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5104 640 304 ) ( -5008 640 304 ) ( -5104 640 288 ) ( ( 0.03125 0 86.5 ) ( 0 0.03125 249 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5104 656 304 ) ( -5104 656 288 ) ( -5104 672 304 ) ( ( 0.015625 0 31.25 ) ( 0 0.015625 253.75 ) ) common/caulk 0 0 0
+( -5008 672 288 ) ( -5104 672 288 ) ( -5008 656 288 ) ( ( -0.015625 0 31.25 ) ( 0 -0.015625 158.25 ) ) exx/base-metal01 0 0 0
+( -5008 672 288 ) ( -5008 672 304 ) ( -5104 672 288 ) ( ( 0.03125 0 227.5 ) ( 0 0.03125 249 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5024 672 288 ) ( -5024 656 288 ) ( -5024 672 304 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.875 ) ) common/caulk 0 0 0
+}
+}
+// brush 1388
+{
+brushDef
+{
+( -4920 1088 448 ) ( -5104 832 448 ) ( -5104 1088 448 ) ( ( -0.03125 0 0 ) ( 0 0.03125 22.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5104 1088 432 ) ( -4920 1088 448 ) ( -5104 1088 448 ) ( ( -0.03125 0 -0 ) ( 0 0.03125 0 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5104 824 448 ) ( -5104 1080 432 ) ( -5104 1080 448 ) ( ( -0.015625 0 0.125 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4920 1088 432 ) ( -5104 832 432 ) ( -4920 832 432 ) ( ( 0.015625 0 0 ) ( 0 -0.015625 158.25 ) ) exx/base-metal01 0 0 0
+( -5104 832 432 ) ( -4920 832 448 ) ( -4920 832 432 ) ( ( -0.03125 0 224.25 ) ( 0 0.03125 252 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4928 832 448 ) ( -4928 1088 432 ) ( -4928 832 432 ) ( ( -0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1389
+{
+brushDef
+{
+( -4976 800 432 ) ( -4976 640 432 ) ( -5016 800 432 ) ( ( 0.015625 0 0.5 ) ( 0 0.015625 255.625 ) ) common/caulk 0 0 0
+( -4992 656 496 ) ( -5032 656 496 ) ( -4992 656 272 ) ( ( 0.015625 0 0 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+( -4928 792 496 ) ( -4928 792 272 ) ( -4928 632 496 ) ( ( 0.015625 0 0.625 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -5024 640 272 ) ( -4984 640 272 ) ( -5024 800 272 ) ( ( 0.015625 0 0.5 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -5024 640 272 ) ( -5024 640 496 ) ( -4984 640 272 ) ( ( 0.015625 0 0 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+( -5024 632 272 ) ( -5024 792 272 ) ( -5024 632 496 ) ( ( -0.03125 0 29 ) ( 0 0.03125 253.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+}
+}
+// brush 1390
+{
+brushDef
+{
+( -5008 832 432 ) ( -5008 656 432 ) ( -5024 832 432 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
+( -5008 832 432 ) ( -5024 832 432 ) ( -5008 832 272 ) ( ( -0.03125 0 28.5 ) ( 0 0.03125 253.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5008 832 432 ) ( -5008 832 272 ) ( -5008 656 432 ) ( ( -0.03125 0 29 ) ( 0 0.03125 253.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5024 656 272 ) ( -5008 656 272 ) ( -5024 832 272 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -5024 656 272 ) ( -5024 656 432 ) ( -5008 656 272 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -5024 656 272 ) ( -5024 832 272 ) ( -5024 656 432 ) ( ( -0.03125 0 29 ) ( 0 0.03125 253.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+}
+}
+// brush 1391
+{
+brushDef
+{
+( -4912 896 704 ) ( -4928 896 704 ) ( -4912 896 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4912 896 752 ) ( -4912 896 320 ) ( -4912 640 752 ) ( ( 0.0078125 0 -0 ) ( -0 0.0078125 0.875 ) ) phillipk2x/walls-pk02_wall_big01b 0 0 0
+( -4928 640 272 ) ( -4928 640 704 ) ( -4912 640 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 640 272 ) ( -4928 896 272 ) ( -4928 640 704 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -4928 864 496 ) ( -4896 640 496 ) ( -4928 640 496 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/base-metal01 0 0 0
+( -4928 784 400 ) ( -4912 704 400 ) ( -4912 784 400 ) ( ( 0.015625 0 0 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1392
+{
+brushDef
+{
+( -4912 896 704 ) ( -4928 896 704 ) ( -4912 896 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4912 896 752 ) ( -4912 896 320 ) ( -4912 640 752 ) ( ( 0.015625 0 0 ) ( 0 -0.015625 156.75 ) ) exx/base-metal04 0 0 0
+( -4928 640 272 ) ( -4912 640 272 ) ( -4928 896 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 640 272 ) ( -4928 896 272 ) ( -4928 640 704 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -4912 784 400 ) ( -4912 704 400 ) ( -4928 784 400 ) ( ( 0.015625 0 0.5 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4912 832 256 ) ( -4928 832 384 ) ( -4912 832 384 ) ( ( 0.015625 0 0 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1393
+{
+brushDef
+{
+( -4912 896 752 ) ( -4912 896 320 ) ( -4912 640 752 ) ( ( 0.015625 0 0 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+( -4928 640 272 ) ( -4912 640 272 ) ( -4928 896 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 640 272 ) ( -4928 640 704 ) ( -4912 640 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -4928 640 272 ) ( -4928 896 272 ) ( -4928 640 704 ) ( ( 0.0078125 0 63.625 ) ( 0 0.0078125 0 ) ) exomorphx/wall-concrete_wall_slab04red 0 0 0
+( -4912 784 400 ) ( -4912 704 400 ) ( -4928 784 400 ) ( ( 0.015625 0 0.5 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4912 704 272 ) ( -4928 704 400 ) ( -4928 704 272 ) ( ( 0.015625 0 0 ) ( 0 -0.015625 156.75 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1394
+{
+brushDef
+{
+( -5104 624 288 ) ( -5104 640 288 ) ( -5008 624 288 ) ( ( 0.03125 0 194.5 ) ( 0 0.03125 25.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5104 608 288 ) ( -5008 608 288 ) ( -5104 608 272 ) ( ( 0.03125 0 86.5 ) ( 0 0.03125 248.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5104 624 288 ) ( -5104 624 272 ) ( -5104 640 288 ) ( ( 0.015625 0 30.75 ) ( 0 0.015625 253.5 ) ) common/caulk 0 0 0
+( -5008 640 272 ) ( -5104 640 272 ) ( -5008 624 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -5008 640 272 ) ( -5008 640 288 ) ( -5104 640 272 ) ( ( 0.03125 0 227.5 ) ( 0 0.03125 248.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5024 640 272 ) ( -5024 624 272 ) ( -5024 640 288 ) ( ( 0.03125 0 86.5 ) ( 0 0.03125 248.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+}
+}
+// brush 1395
+{
+brushDef
+{
+( -4912 1296 288 ) ( -5008 1280 288 ) ( -5008 1296 288 ) ( ( -0.03125 0 254.5 ) ( 0 0.03125 22.5 ) ) phillipk1x/floors-pk01_pan_floor02a 0 0 0
+( -5008 1312 272 ) ( -4912 1312 288 ) ( -5008 1312 288 ) ( ( -0.03125 0 83.5 ) ( 0 0.03125 248.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -5008 1280 288 ) ( -5008 1296 272 ) ( -5008 1296 288 ) ( ( -0.03125 0 82.5 ) ( 0 0.03125 248.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4912 1296 272 ) ( -5008 1280 272 ) ( -4912 1280 272 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -5008 1280 272 ) ( -4912 1280 288 ) ( -4912 1280 272 ) ( ( -0.03125 0 230.5 ) ( 0 0.03125 248.5 ) ) phillipk1x/floors-pk01_pan_floor02b 0 0 0
+( -4928 1280 288 ) ( -4928 1296 272 ) ( -4928 1280 272 ) ( ( 0.015625 0 255.5 ) ( 0 0.015625 255.625 ) ) common/caulk 0 0 0
+}
+}
+// brush 1396
+{
+brushDef
+{
+( -4736 608 416 ) ( -4736 544 416 ) ( -4784 608 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4736 608 416 ) ( -4784 608 416 ) ( -4736 608 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4736 608 416 ) ( -4736 608 400 ) ( -4736 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4784 544 400 ) ( -4736 544 400 ) ( -4784 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4784 544 400 ) ( -4784 544 416 ) ( -4736 544 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4784 544 400 ) ( -4784 608 400 ) ( -4784 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+}
+}
+// brush 1397
+{
+brushDef
+{
+( -3504 624 432 ) ( -3504 560 432 ) ( -4928 624 432 ) ( ( 0.015625 0 255.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3504 608 368 ) ( -4928 608 368 ) ( -3504 608 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4912 512 352 ) ( -4912 512 368 ) ( -3488 512 352 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4928 512 272 ) ( -4928 576 272 ) ( -4928 512 288 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4928 592 384 ) ( -3504 528 384 ) ( -3504 592 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4784 544 400 ) ( -4784 608 384 ) ( -4784 544 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1398
+{
+brushDef
+{
+( -4736 544 400 ) ( -4736 528 400 ) ( -4784 544 400 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4736 544 400 ) ( -4784 544 400 ) ( -4736 544 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4736 544 400 ) ( -4736 544 384 ) ( -4736 528 400 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4784 528 384 ) ( -4736 528 384 ) ( -4784 544 384 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4784 528 384 ) ( -4784 528 400 ) ( -4736 528 384 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4784 528 384 ) ( -4784 544 384 ) ( -4784 528 400 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1399
+{
+brushDef
+{
+( -3504 624 400 ) ( -3504 560 400 ) ( -4928 624 400 ) ( ( 0.015625 0 255.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3504 608 368 ) ( -4928 608 368 ) ( -3504 608 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4912 544 352 ) ( -4912 544 368 ) ( -3488 544 352 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4928 592 384 ) ( -3504 528 384 ) ( -3504 592 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4736 544 400 ) ( -4736 608 384 ) ( -4736 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4624 544 400 ) ( -4624 608 384 ) ( -4624 544 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1400
+{
+brushDef
+{
+( -3504 624 400 ) ( -3504 560 400 ) ( -4928 624 400 ) ( ( 0.015625 0 255.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3504 608 368 ) ( -4928 608 368 ) ( -3504 608 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4912 544 352 ) ( -4912 544 368 ) ( -3488 544 352 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4928 592 384 ) ( -3504 528 384 ) ( -3504 592 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4576 544 400 ) ( -4576 608 384 ) ( -4576 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4464 544 400 ) ( -4464 608 384 ) ( -4464 544 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1401
+{
+brushDef
+{
+( -3504 624 400 ) ( -3504 560 400 ) ( -4928 624 400 ) ( ( 0.015625 0 255.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3504 608 368 ) ( -4928 608 368 ) ( -3504 608 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4912 544 352 ) ( -4912 544 368 ) ( -3488 544 352 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4928 592 384 ) ( -3504 528 384 ) ( -3504 592 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4416 544 400 ) ( -4416 608 384 ) ( -4416 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4304 544 400 ) ( -4304 608 384 ) ( -4304 544 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1402
+{
+brushDef
+{
+( -3504 624 400 ) ( -3504 560 400 ) ( -4928 624 400 ) ( ( 0.015625 0 255.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3504 608 368 ) ( -4928 608 368 ) ( -3504 608 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4912 544 352 ) ( -4912 544 368 ) ( -3488 544 352 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4928 592 384 ) ( -3504 528 384 ) ( -3504 592 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4256 544 400 ) ( -4256 608 384 ) ( -4256 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4024 544 400 ) ( -4024 608 384 ) ( -4024 544 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 501.125 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1403
+{
+brushDef
+{
+( -3504 624 400 ) ( -3504 560 400 ) ( -4928 624 400 ) ( ( 0.015625 0 255.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3504 608 368 ) ( -4928 608 368 ) ( -3504 608 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4912 544 352 ) ( -4912 544 368 ) ( -3488 544 352 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4928 592 384 ) ( -3504 528 384 ) ( -3504 592 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -3976 544 400 ) ( -3976 608 384 ) ( -3976 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 501.125 ) ) exx/base-metal01 0 0 0
+( -3864 544 400 ) ( -3864 608 384 ) ( -3864 544 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 501.125 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1404
+{
+brushDef
+{
+( -3504 624 400 ) ( -3504 560 400 ) ( -4928 624 400 ) ( ( 0.015625 0 255.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3504 608 368 ) ( -4928 608 368 ) ( -3504 608 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -3520 576 288 ) ( -3520 576 272 ) ( -3520 512 288 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4912 544 352 ) ( -4912 544 368 ) ( -3488 544 352 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4928 592 384 ) ( -3504 528 384 ) ( -3504 592 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -3656 544 400 ) ( -3656 608 384 ) ( -3656 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 501.125 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1405
+{
+brushDef
+{
+( -3504 624 400 ) ( -3504 560 400 ) ( -4928 624 400 ) ( ( 0.015625 0 255.25 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3504 608 368 ) ( -4928 608 368 ) ( -3504 608 352 ) ( ( 0.015625 0 0 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4912 544 352 ) ( -4912 544 368 ) ( -3488 544 352 ) ( ( 0.015625 0 255.75 ) ( 0 0.015625 1.25 ) ) common/caulk 0 0 0
+( -4928 592 384 ) ( -3504 528 384 ) ( -3504 592 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -3816 544 400 ) ( -3816 608 384 ) ( -3816 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 501.125 ) ) exx/base-metal01 0 0 0
+( -3704 544 400 ) ( -3704 608 384 ) ( -3704 544 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 501.125 ) ) exx/base-metal01 0 0 0
+}
+}
+// brush 1406
+{
+brushDef
+{
+( -4112 544 400 ) ( -4112 496 400 ) ( -4176 544 400 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4112 544 400 ) ( -4176 544 400 ) ( -4112 544 384 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4112 544 400 ) ( -4112 544 384 ) ( -4112 496 400 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4176 496 384 ) ( -4112 496 384 ) ( -4176 544 384 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4168 512 384 ) ( -4168 512 400 ) ( -4104 512 384 ) ( ( 0.015625 0 255.875 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4176 496 384 ) ( -4176 544 384 ) ( -4176 496 400 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1407
+{
+brushDef
+{
+( -4576 608 416 ) ( -4576 544 416 ) ( -4624 608 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 253.5 ) ) common/caulk 0 0 0
+( -4576 608 416 ) ( -4624 608 416 ) ( -4576 608 400 ) ( ( 0.015625 0 2.5 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4576 608 416 ) ( -4576 608 400 ) ( -4576 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4624 544 400 ) ( -4576 544 400 ) ( -4624 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 502.375 ) ) exx/base-metal01 0 0 0
+( -4624 544 400 ) ( -4624 544 416 ) ( -4576 544 400 ) ( ( 0.015625 0 253.5 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4624 544 400 ) ( -4624 608 400 ) ( -4624 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+}
+}
+// brush 1408
+{
+brushDef
+{
+( -4576 544 400 ) ( -4576 528 400 ) ( -4624 544 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 253.5 ) ) common/caulk 0 0 0
+( -4576 544 400 ) ( -4624 544 400 ) ( -4576 544 384 ) ( ( -0.015625 0 465.5 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4576 544 400 ) ( -4576 544 384 ) ( -4576 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4624 528 384 ) ( -4576 528 384 ) ( -4624 544 384 ) ( ( 0.015625 0 0 ) ( 0 0.015625 2.5 ) ) common/caulk 0 0 0
+( -4624 528 384 ) ( -4624 528 400 ) ( -4576 528 384 ) ( ( 0.015625 0 253.5 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4624 528 384 ) ( -4624 544 384 ) ( -4624 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1409
+{
+brushDef
+{
+( -4416 608 416 ) ( -4416 544 416 ) ( -4464 608 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 251 ) ) common/caulk 0 0 0
+( -4416 608 416 ) ( -4464 608 416 ) ( -4416 608 400 ) ( ( 0.015625 0 5 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4416 608 416 ) ( -4416 608 400 ) ( -4416 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4464 544 400 ) ( -4416 544 400 ) ( -4464 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 504.875 ) ) exx/base-metal01 0 0 0
+( -4464 544 400 ) ( -4464 544 416 ) ( -4416 544 400 ) ( ( 0.015625 0 251 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4464 544 400 ) ( -4464 608 400 ) ( -4464 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+}
+}
+// brush 1410
+{
+brushDef
+{
+( -4416 544 400 ) ( -4416 528 400 ) ( -4464 544 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 251 ) ) common/caulk 0 0 0
+( -4416 544 400 ) ( -4464 544 400 ) ( -4416 544 384 ) ( ( -0.015625 0 463 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4416 544 400 ) ( -4416 544 384 ) ( -4416 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4464 528 384 ) ( -4416 528 384 ) ( -4464 544 384 ) ( ( 0.015625 0 0 ) ( 0 0.015625 5 ) ) common/caulk 0 0 0
+( -4464 528 384 ) ( -4464 528 400 ) ( -4416 528 384 ) ( ( 0.015625 0 251 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4464 528 384 ) ( -4464 544 384 ) ( -4464 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1411
+{
+brushDef
+{
+( -4256 608 416 ) ( -4256 544 416 ) ( -4304 608 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 248.5 ) ) common/caulk 0 0 0
+( -4256 608 416 ) ( -4304 608 416 ) ( -4256 608 400 ) ( ( 0.015625 0 7.5 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4256 608 416 ) ( -4256 608 400 ) ( -4256 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4304 544 400 ) ( -4256 544 400 ) ( -4304 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 507.375 ) ) exx/base-metal01 0 0 0
+( -4304 544 400 ) ( -4304 544 416 ) ( -4256 544 400 ) ( ( 0.015625 0 248.5 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4304 544 400 ) ( -4304 608 400 ) ( -4304 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+}
+}
+// brush 1412
+{
+brushDef
+{
+( -4256 544 400 ) ( -4256 528 400 ) ( -4304 544 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 248.5 ) ) common/caulk 0 0 0
+( -4256 544 400 ) ( -4304 544 400 ) ( -4256 544 384 ) ( ( -0.015625 0 460.5 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -4256 544 400 ) ( -4256 544 384 ) ( -4256 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4304 528 384 ) ( -4256 528 384 ) ( -4304 544 384 ) ( ( 0.015625 0 0 ) ( 0 0.015625 7.5 ) ) common/caulk 0 0 0
+( -4304 528 384 ) ( -4304 528 400 ) ( -4256 528 384 ) ( ( 0.015625 0 248.5 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4304 528 384 ) ( -4304 544 384 ) ( -4304 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1413
+{
+brushDef
+{
+( -3976 608 416 ) ( -3976 544 416 ) ( -4024 608 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 244.125 ) ) common/caulk 0 0 0
+( -3976 608 416 ) ( -4024 608 416 ) ( -3976 608 400 ) ( ( 0.015625 0 11.875 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -3976 608 416 ) ( -3976 608 400 ) ( -3976 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4024 544 400 ) ( -3976 544 400 ) ( -4024 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 511.75 ) ) exx/base-metal01 0 0 0
+( -4024 544 400 ) ( -4024 544 416 ) ( -3976 544 400 ) ( ( 0.015625 0 244.125 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -4024 544 400 ) ( -4024 608 400 ) ( -4024 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+}
+}
+// brush 1414
+{
+brushDef
+{
+( -3976 544 400 ) ( -3976 528 400 ) ( -4024 544 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 244.125 ) ) common/caulk 0 0 0
+( -3976 544 400 ) ( -4024 544 400 ) ( -3976 544 384 ) ( ( -0.015625 0 456.125 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -3976 544 400 ) ( -3976 544 384 ) ( -3976 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4024 528 384 ) ( -3976 528 384 ) ( -4024 544 384 ) ( ( 0.015625 0 0 ) ( 0 0.015625 11.875 ) ) common/caulk 0 0 0
+( -4024 528 384 ) ( -4024 528 400 ) ( -3976 528 384 ) ( ( 0.015625 0 244.125 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4024 528 384 ) ( -4024 544 384 ) ( -4024 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1415
+{
+brushDef
+{
+( -3816 608 416 ) ( -3816 544 416 ) ( -3864 608 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 241.625 ) ) common/caulk 0 0 0
+( -3816 608 416 ) ( -3864 608 416 ) ( -3816 608 400 ) ( ( 0.015625 0 14.375 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -3816 608 416 ) ( -3816 608 400 ) ( -3816 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -3864 544 400 ) ( -3816 544 400 ) ( -3864 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 2.25 ) ) exx/base-metal01 0 0 0
+( -3864 544 400 ) ( -3864 544 416 ) ( -3816 544 400 ) ( ( 0.015625 0 241.625 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -3864 544 400 ) ( -3864 608 400 ) ( -3864 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+}
+}
+// brush 1416
+{
+brushDef
+{
+( -3816 544 400 ) ( -3816 528 400 ) ( -3864 544 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 241.625 ) ) common/caulk 0 0 0
+( -3816 544 400 ) ( -3864 544 400 ) ( -3816 544 384 ) ( ( -0.015625 0 453.625 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -3816 544 400 ) ( -3816 544 384 ) ( -3816 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3864 528 384 ) ( -3816 528 384 ) ( -3864 544 384 ) ( ( 0.015625 0 0 ) ( 0 0.015625 14.375 ) ) common/caulk 0 0 0
+( -3864 528 384 ) ( -3864 528 400 ) ( -3816 528 384 ) ( ( 0.015625 0 241.625 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3864 528 384 ) ( -3864 544 384 ) ( -3864 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1417
+{
+brushDef
+{
+( -3656 608 416 ) ( -3656 544 416 ) ( -3704 608 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 239.125 ) ) common/caulk 0 0 0
+( -3656 608 416 ) ( -3704 608 416 ) ( -3656 608 400 ) ( ( 0.015625 0 16.875 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -3656 608 416 ) ( -3656 608 400 ) ( -3656 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -3704 544 400 ) ( -3656 544 400 ) ( -3704 608 400 ) ( ( -0.015625 0 468 ) ( 0 0.015625 4.75 ) ) exx/base-metal01 0 0 0
+( -3704 544 400 ) ( -3704 544 416 ) ( -3656 544 400 ) ( ( 0.015625 0 239.125 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+( -3704 544 400 ) ( -3704 608 400 ) ( -3704 544 416 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.25 ) ) common/caulk 0 0 0
+}
+}
+// brush 1418
+{
+brushDef
+{
+( -3656 544 400 ) ( -3656 528 400 ) ( -3704 544 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 239.125 ) ) common/caulk 0 0 0
+( -3656 544 400 ) ( -3704 544 400 ) ( -3656 544 384 ) ( ( -0.015625 0 451.125 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
+( -3656 544 400 ) ( -3656 544 384 ) ( -3656 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3704 528 384 ) ( -3656 528 384 ) ( -3704 544 384 ) ( ( 0.015625 0 0 ) ( 0 0.015625 16.875 ) ) common/caulk 0 0 0
+( -3704 528 384 ) ( -3704 528 400 ) ( -3656 528 384 ) ( ( 0.015625 0 239.125 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3704 528 384 ) ( -3704 544 384 ) ( -3704 528 400 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1419
+{
+patchDef2
+{
+map_rainbow_factory/conveyor_belt
+( 3 3 0 0 0 )
+(
+( ( -4928 608 280 0 -0.0000000149 ) ( -4928 576 280 -0.4999999404 0 ) ( -4928 544 280 -0.9999998808 0 ) )
+( ( -4936 608 280 0 -0.0625000149 ) ( -4936 576 280 -0.4999999404 -0.0625 ) ( -4936 544 280 -0.9999998808 -0.0625000298 ) )
+( ( -4936 608 272 0 -0.125 ) ( -4936 576 272 -0.4999999404 -0.1250000149 ) ( -4936 544 272 -0.9999998808 -0.125 ) )
+)
+}
+}
+// brush 1420
+{
+patchDef2
+{
+exx/base-metal01
+( 3 3 0 0 0 )
+(
+( ( -4936 608 272 0 0 ) ( -4936 616 272 0 -0.0625 ) ( -4928 616 272 0 -0.125 ) )
+( ( -4936 608 280 0.0625 0 ) ( -4936 616 280 0.0625 -0.0625 ) ( -4928 616 280 0.0625 -0.125 ) )
+( ( -4928 608 280 0.125 0 ) ( -4928 608 280 0.125 -0.0625 ) ( -4928 608 280 0.125 -0.125 ) )
+)
+}
+}
+// brush 1421
+{
+patchDef2
+{
+exx/base-metal01
+( 3 3 0 0 0 )
+(
+( ( -4928 536 272 0 -0.125 ) ( -4936 536 272 0 -0.0625 ) ( -4936 544 272 0 0 ) )
+( ( -4928 536 280 0.0625 -0.125 ) ( -4936 536 280 0.0625 -0.0625 ) ( -4936 544 280 0.0625 0 ) )
+( ( -4928 544 280 0.125 -0.125 ) ( -4928 544 280 0.125 -0.0625 ) ( -4928 544 280 0.125 0 ) )
+)
+}
+}
+// brush 1422
+{
+brushDef
+{
+( -4784 640 432 ) ( -4784 608 432 ) ( -4928 640 432 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4784 640 432 ) ( -4928 640 432 ) ( -4784 640 400 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4912 632 432 ) ( -4912 632 400 ) ( -4912 600 432 ) ( ( 0.015625 0 0.125 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -4928 608 400 ) ( -4784 608 400 ) ( -4928 640 400 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4928 608 400 ) ( -4928 608 432 ) ( -4784 608 400 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+( -4928 608 400 ) ( -4928 640 400 ) ( -4928 608 432 ) ( ( -0.015625 0 468 ) ( 0 0.015625 499.875 ) ) exx/base-metal01 0 0 0
 }
 }
 }
@@ -25254,10 +25989,11 @@ brushDef
 "lip" "-288"
 "speed" "1024"
 "dmg" "1000"
-"spawnflags" "37"
+"spawnflags" "5"
 "targetname" "door_crush_4"
 "angle" "-1"
 "platmovetype" "1"
+"wait" "0.5"
 // brush 0
 {
 patchDef2
@@ -25724,10 +26460,11 @@ brushDef
 "lip" "-368"
 "speed" "1024"
 "dmg" "1000"
-"spawnflags" "37"
+"spawnflags" "5"
 "targetname" "door_crush_3"
 "angle" "-1"
 "platmovetype" "1"
+"wait" "0.5"
 // brush 0
 {
 patchDef2
@@ -27041,10 +27778,11 @@ brushDef
 "lip" "-368"
 "speed" "1024"
 "dmg" "1000"
-"spawnflags" "37"
+"spawnflags" "5"
 "targetname" "door_crush_2"
 "angle" "-1"
 "platmovetype" "1"
+"wait" "0.5"
 // brush 0
 {
 patchDef2
@@ -28346,10 +29084,11 @@ brushDef
 "lip" "-368"
 "speed" "1024"
 "dmg" "1000"
-"spawnflags" "37"
+"spawnflags" "5"
 "targetname" "door_crush_1"
 "angle" "-1"
 "platmovetype" "1"
+"wait" "0.5"
 // brush 0
 {
 patchDef2
@@ -29648,14 +30387,14 @@ brushDef
 // entity 201
 {
 "classname" "func_door"
-"speed" "300"
+"speed" "350"
 "platmovetype" "1"
 "angle" "-1"
 "dmg" "30"
 "spawnflags" "5"
 "targetname" "conv_blade_1"
 "wait" "0.01"
-"lip" "17"
+"lip" "1"
 // brush 0
 {
 brushDef
@@ -29870,14 +30609,14 @@ brushDef
 // entity 205
 {
 "classname" "func_door"
-"speed" "300"
+"speed" "350"
 "platmovetype" "1"
 "angle" "-1"
 "dmg" "30"
 "spawnflags" "5"
 "targetname" "conv_blade_2"
 "wait" "0.01"
-"lip" "17"
+"lip" "1"
 // brush 0
 {
 brushDef
@@ -30076,14 +30815,14 @@ brushDef
 // entity 208
 {
 "classname" "func_door"
-"speed" "300"
+"speed" "350"
 "platmovetype" "1"
 "angle" "-1"
 "dmg" "30"
 "spawnflags" "5"
 "targetname" "conv_blade_3"
 "wait" "0.01"
-"lip" "17"
+"lip" "1"
 // brush 0
 {
 brushDef
@@ -30282,14 +31021,14 @@ brushDef
 // entity 211
 {
 "classname" "func_door"
-"speed" "300"
+"speed" "350"
 "platmovetype" "1"
 "angle" "-1"
 "dmg" "30"
 "spawnflags" "5"
 "targetname" "conv_blade_4"
 "wait" "0.01"
-"lip" "17"
+"lip" "1"
 // brush 0
 {
 brushDef
@@ -30488,14 +31227,14 @@ brushDef
 // entity 214
 {
 "classname" "func_door"
-"speed" "300"
+"speed" "350"
 "platmovetype" "1"
 "angle" "-1"
 "dmg" "30"
 "spawnflags" "5"
 "targetname" "conv_blade_5"
 "wait" "0.01"
-"lip" "17"
+"lip" "1"
 // brush 0
 {
 brushDef
@@ -30694,14 +31433,14 @@ brushDef
 // entity 217
 {
 "classname" "func_door"
-"speed" "300"
+"speed" "350"
 "platmovetype" "1"
 "angle" "-1"
 "dmg" "30"
 "spawnflags" "5"
 "targetname" "conv_blade_6"
 "wait" "0.01"
-"lip" "17"
+"lip" "1"
 // brush 0
 {
 brushDef
@@ -30900,14 +31639,14 @@ brushDef
 // entity 220
 {
 "classname" "func_door"
-"speed" "300"
+"speed" "350"
 "platmovetype" "1"
 "angle" "-1"
 "dmg" "30"
 "spawnflags" "5"
 "targetname" "conv_blade_7"
 "wait" "0.01"
-"lip" "17"
+"lip" "1"
 // brush 0
 {
 brushDef
@@ -32062,9 +32801,9 @@ brushDef
 {
 ( -3920 864 752 ) ( -4096 864 752 ) ( -3920 896 752 ) ( ( 0 0.015625 74.75 ) ( -0.015625 0 212.75 ) ) common/trigger 0 0 0
 ( -3920 864 752 ) ( -3920 896 752 ) ( -3920 864 272 ) ( ( 0.015625 0 43.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
-( -3920 864 752 ) ( -3920 864 272 ) ( -4096 864 752 ) ( ( 0.015625 0 74.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -3952 864 752 ) ( -3952 864 272 ) ( -4128 864 752 ) ( ( 0.015625 0 75.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4096 896 272 ) ( -4096 864 272 ) ( -3920 896 272 ) ( ( 0 -0.015625 74.75 ) ( 0.015625 0 43.25 ) ) common/trigger 0 0 0
-( -4112 896 272 ) ( -4112 896 752 ) ( -4112 864 272 ) ( ( 0.015625 0 212.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -4144 896 272 ) ( -4144 896 752 ) ( -4144 864 272 ) ( ( 0.015625 0 212.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4096 896 272 ) ( -3920 896 272 ) ( -4096 896 752 ) ( ( 0.015625 0 181.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 }
 }
@@ -32088,8 +32827,8 @@ brushDef
 ( -3920 656 752 ) ( -3920 688 752 ) ( -3920 656 272 ) ( ( 0.015625 0 46.5 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -3920 656 752 ) ( -3920 656 272 ) ( -4096 656 752 ) ( ( 0.015625 0 74.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4096 688 272 ) ( -4096 656 272 ) ( -3920 688 272 ) ( ( 0 -0.015625 74.75 ) ( 0.015625 0 46.5 ) ) common/trigger 0 0 0
-( -4112 688 272 ) ( -4112 688 752 ) ( -4112 656 272 ) ( ( 0.015625 0 209.5 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
-( -4096 688 272 ) ( -3920 688 272 ) ( -4096 688 752 ) ( ( 0.015625 0 181.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -4144 688 272 ) ( -4144 688 752 ) ( -4144 656 272 ) ( ( 0.015625 0 209.5 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -4128 688 272 ) ( -3952 688 272 ) ( -4128 688 752 ) ( ( 0.015625 0 180.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 }
 }
 }
@@ -32103,9 +32842,9 @@ brushDef
 {
 ( -4176 864 752 ) ( -4352 864 752 ) ( -4176 896 752 ) ( ( 0 0.015625 78.75 ) ( -0.015625 0 212.75 ) ) common/trigger 0 0 0
 ( -4176 864 752 ) ( -4176 896 752 ) ( -4176 864 272 ) ( ( 0.015625 0 43.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
-( -4176 864 752 ) ( -4176 864 272 ) ( -4352 864 752 ) ( ( 0.015625 0 78.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -4208 864 752 ) ( -4208 864 272 ) ( -4384 864 752 ) ( ( 0.015625 0 79.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4352 896 272 ) ( -4352 864 272 ) ( -4176 896 272 ) ( ( 0 -0.015625 78.75 ) ( 0.015625 0 43.25 ) ) common/trigger 0 0 0
-( -4368 896 272 ) ( -4368 896 752 ) ( -4368 864 272 ) ( ( 0.015625 0 212.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -4400 896 272 ) ( -4400 896 752 ) ( -4400 864 272 ) ( ( 0.015625 0 212.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4352 896 272 ) ( -4176 896 272 ) ( -4352 896 752 ) ( ( 0.015625 0 177.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 }
 }
@@ -32129,8 +32868,8 @@ brushDef
 ( -4176 656 752 ) ( -4176 688 752 ) ( -4176 656 272 ) ( ( 0.015625 0 46.5 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4176 656 752 ) ( -4176 656 272 ) ( -4352 656 752 ) ( ( 0.015625 0 78.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4352 688 272 ) ( -4352 656 272 ) ( -4176 688 272 ) ( ( 0 -0.015625 78.75 ) ( 0.015625 0 46.5 ) ) common/trigger 0 0 0
-( -4368 688 272 ) ( -4368 688 752 ) ( -4368 656 272 ) ( ( 0.015625 0 209.5 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
-( -4352 688 272 ) ( -4176 688 272 ) ( -4352 688 752 ) ( ( 0.015625 0 177.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -4400 688 272 ) ( -4400 688 752 ) ( -4400 656 272 ) ( ( 0.015625 0 209.5 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -4384 688 272 ) ( -4208 688 272 ) ( -4384 688 752 ) ( ( 0.015625 0 176.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 }
 }
 }
@@ -32146,7 +32885,7 @@ brushDef
 ( -4432 864 752 ) ( -4432 896 752 ) ( -4432 864 272 ) ( ( 0.015625 0 43.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4432 864 752 ) ( -4432 864 272 ) ( -4608 864 752 ) ( ( 0.015625 0 82.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4608 896 272 ) ( -4608 864 272 ) ( -4432 896 272 ) ( ( 0 -0.015625 82.75 ) ( 0.015625 0 43.25 ) ) common/trigger 0 0 0
-( -4624 896 272 ) ( -4624 896 752 ) ( -4624 864 272 ) ( ( 0.015625 0 212.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -4656 896 272 ) ( -4656 896 752 ) ( -4656 864 272 ) ( ( 0.015625 0 212.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4608 896 272 ) ( -4432 896 272 ) ( -4608 896 752 ) ( ( 0.015625 0 173.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 }
 }
@@ -32170,8 +32909,8 @@ brushDef
 ( -4432 656 752 ) ( -4432 688 752 ) ( -4432 656 272 ) ( ( 0.015625 0 46.5 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4432 656 752 ) ( -4432 656 272 ) ( -4608 656 752 ) ( ( 0.015625 0 82.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4608 688 272 ) ( -4608 656 272 ) ( -4432 688 272 ) ( ( 0 -0.015625 82.75 ) ( 0.015625 0 46.5 ) ) common/trigger 0 0 0
-( -4624 688 272 ) ( -4624 688 752 ) ( -4624 656 272 ) ( ( 0.015625 0 209.5 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
-( -4608 688 272 ) ( -4432 688 272 ) ( -4608 688 752 ) ( ( 0.015625 0 173.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -4656 688 272 ) ( -4656 688 752 ) ( -4656 656 272 ) ( ( 0.015625 0 209.5 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -4640 688 272 ) ( -4464 688 272 ) ( -4640 688 752 ) ( ( 0.015625 0 172.75 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 }
 }
 }
@@ -32213,6 +32952,67 @@ brushDef
 ( -4864 688 272 ) ( -4864 656 272 ) ( -4688 688 272 ) ( ( 0 -0.015625 86.75 ) ( 0.015625 0 46.5 ) ) common/trigger 0 0 0
 ( -4880 688 272 ) ( -4880 688 752 ) ( -4880 656 272 ) ( ( 0.015625 0 209.5 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4864 688 272 ) ( -4688 688 272 ) ( -4864 688 752 ) ( ( 0.015625 0 169.25 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+}
+}
+}
+// entity 233
+{
+"classname" "item_flag_team1"
+"origin" "-5016.000000 1424.000000 272.000000"
+"angle" "-90.000000"
+}
+// entity 234
+{
+"classname" "func_door"
+"angle" "90"
+"targetname" "func_door14"
+// brush 0
+{
+brushDef
+{
+( -4908 784 400 ) ( -4908 704 400 ) ( -4924 784 400 ) ( ( 0.015625 0 0.5 ) ( 0 0.015625 255.9375 ) ) common/caulk 0 0 0
+( -4908 832 384 ) ( -4924 832 384 ) ( -4908 832 256 ) ( ( 0.015625 0 0.0625 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
+( -4916 784 400 ) ( -4916 784 272 ) ( -4916 704 400 ) ( ( 0.0078125 0 1018.5 ) ( 0 0.0078125 3.125 ) ) techpanelx/panel-tech2r 0 0 0
+( -4924 704 272 ) ( -4908 704 272 ) ( -4924 784 272 ) ( ( 0.015625 0 0.5 ) ( 0 0.015625 0.0625 ) ) common/caulk 0 0 0
+( -4924 704 272 ) ( -4924 704 400 ) ( -4908 704 272 ) ( ( 0 0.0624800101 -0 ) ( -0.1249600202 0 0.6970312595 ) ) techpanelx/trim-section1r 0 0 0
+( -4924 704 272 ) ( -4924 784 272 ) ( -4924 704 400 ) ( ( 0.0078125 0 1018.5 ) ( 0 0.0078125 3.125 ) ) techpanelx/panel-tech2r 0 0 0
+}
+}
+}
+// entity 235
+{
+"classname" "func_button"
+"health" "1"
+"lip" "1"
+"angle" "0"
+"spawnflags" "256"
+"target" "func_door14"
+// brush 0
+{
+brushDef
+{
+( -5100 880 376 ) ( -5100 880 312 ) ( -5100 816 376 ) ( ( 0.00390625 0 507.375 ) ( 0 0.00390625 509.09375 ) ) facility114x/base-basered 0 0 0
+( -5104 816 320 ) ( -5104 880 320 ) ( -5104 816 384 ) ( ( 0.0078125 0 9.25 ) ( 0 0.0078125 250.25 ) ) common/caulk 0 0 0
+( -5104 872 -808 ) ( -5100 868 -808 ) ( -5104 872 -680 ) ( ( 0.176767081 0 22.0405006409 ) ( 0 0.020833334 7.8333339691 ) ) trak6x/trim-trim1 0 0 0
+( -5100 828 -812 ) ( -5104 824 -812 ) ( -5100 828 -684 ) ( ( 0.1763085574 0 21.5827331543 ) ( 0 0.020833334 7.8336582184 ) ) trak6x/trim-trim1 0 0 0
+( -5104 1248 376 ) ( -5100 1248 372 ) ( -5104 1120 376 ) ( ( 0 0.1767765135 172.9993896484 ) ( -0.0208333209 0 18.166677475 ) ) trak6x/trim-trim1 0 0 0
+( -5100 1248 332 ) ( -5104 1248 328 ) ( -5100 1120 332 ) ( ( 0 0.1767765135 172.0005493164 ) ( -0.0208333321 0 18.1667518616 ) ) trak6x/trim-trim1 0 0 0
+}
+}
+}
+// entity 236
+{
+"classname" "trigger_secret"
+// brush 0
+{
+brushDef
+{
+( -4704 608 384 ) ( -4704 544 384 ) ( -4720 608 384 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -4704 608 384 ) ( -4720 608 384 ) ( -4704 608 272 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -4704 608 384 ) ( -4704 608 272 ) ( -4704 544 384 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -4720 544 296 ) ( -4704 544 296 ) ( -4720 608 296 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+( -4720 544 272 ) ( -4720 544 384 ) ( -4704 544 272 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -4720 544 272 ) ( -4720 608 272 ) ( -4720 544 384 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
 }
 }
 }
