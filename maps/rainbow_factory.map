@@ -1997,7 +1997,7 @@ brushDef
 ( -3360 80 1264 ) ( -3360 80 1024 ) ( -3360 64 1264 ) ( ( 0.03125 0 0.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4080 80 1024 ) ( -3648 80 1024 ) ( -4080 96 1024 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
 ( -4080 80 1024 ) ( -4080 80 1264 ) ( -3648 80 1024 ) ( ( 0.0078125 0 -0.109375 ) ( -0 0.0078125 0 ) ) techpanelx/wall-section3 0 0 0
-( -4080 80 1024 ) ( -4080 96 1024 ) ( -4080 80 1264 ) ( ( 0.03125 0 -0 ) ( -0 0.03125 0 ) ) common/caulk 0 0 0
+( -3960 64 1024 ) ( -3960 80 1024 ) ( -3960 64 1264 ) ( ( 0 0.015625 -0.109375 ) ( -0.015625 0 0 ) ) techpanelx/panel-tech4 0 0 0
 }
 }
 // brush 166
@@ -2079,8 +2079,8 @@ brushDef
 {
 ( -3952 112 1168 ) ( -3952 80 1168 ) ( -3968 112 1168 ) ( ( 0.03125 0 0 ) ( 0 0.03125 8 ) ) common/caulk 0 0 0
 ( -3952 112 1168 ) ( -3968 112 1168 ) ( -3952 112 1064 ) ( ( 0.0078125 -0 -0.890625 ) ( 0 0.0078125 0 ) ) techpanelx/wall-section3 0 0 0
-( -3948 112 1168 ) ( -3948 112 1064 ) ( -3948 80 1168 ) ( ( 0 0.015625 -0.109375 ) ( -0.015625 0 0 ) ) techpanelx/panel-tech4 0 0 0
-( -3968 80 1064 ) ( -3952 80 1064 ) ( -3968 112 1064 ) ( ( 0.03125 0 0 ) ( 0 0.03125 248 ) ) common/caulk 0 0 0
+( -4076 104 1128 ) ( -4076 104 1024 ) ( -4076 72 1128 ) ( ( 0 0.015625 1023.265625 ) ( -0.015625 0 0 ) ) techpanelx/panel-tech4 0 0 0
+( -3968 80 1024 ) ( -3952 80 1024 ) ( -3968 112 1024 ) ( ( 0.03125 0 0 ) ( 0 0.03125 248 ) ) common/caulk 0 0 0
 ( -3968 80 1064 ) ( -3968 80 1168 ) ( -3952 80 1064 ) ( ( 0.0078125 0 1.890625 ) ( 0 0.0078125 0 ) ) techpanelx/wall-section3 0 0 0
 ( -4080 80 1064 ) ( -4080 112 1064 ) ( -4080 80 1168 ) ( ( 0.03125 0 0 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
 }
@@ -4339,7 +4339,7 @@ brushDef
 ( -4064 992 1008 ) ( -3936 992 1008 ) ( -4064 1008 1008 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/floor-wrn01 0 0 0
 ( -4064 992 1024 ) ( -4064 992 1152 ) ( -3936 992 1024 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) exx/floor-wrn01 0 0 0
 ( -4080 992 1024 ) ( -4080 1008 1024 ) ( -4080 992 1152 ) ( ( 0.03125 0 255.5 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-( -4064 976 1152 ) ( -4064 992 1024 ) ( -4064 976 1024 ) ( ( 0.0078125 0 0.125 ) ( 0 0.0078125 0 ) ) trak7x/wall-wall1b 0 0 0
+( -4064 976 1152 ) ( -4064 992 1024 ) ( -4064 976 1024 ) ( ( 0.0078125 0 -0.125 ) ( -0 0.0078125 0 ) ) trak7x/wall-wall1b 0 0 0
 }
 }
 // brush 317
@@ -18900,7 +18900,7 @@ brushDef
 {
 ( -4048 1136 1136 ) ( -4048 1128 1136 ) ( -4152 1136 1136 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.375 ) ) common/caulk 0 0 0
 ( -4048 1136 1136 ) ( -4152 1136 1136 ) ( -4048 1136 1024 ) ( ( -0.015625 0 14.625 ) ( 0 0.015625 68.125 ) ) exx/base-metal01 0 0 0
-( -4040 1136 1136 ) ( -4040 1136 1024 ) ( -4040 1128 1136 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.875 ) ) common/caulk 0 0 0
+( -4080 1136 1128 ) ( -4080 1136 1016 ) ( -4080 1128 1128 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.75 ) ) common/caulk 0 0 0
 ( -4152 1128 1024 ) ( -4048 1128 1024 ) ( -4152 1136 1024 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.625 ) ) common/caulk 0 0 0
 ( -4144 1128 1024 ) ( -4144 1128 1136 ) ( -4040 1128 1024 ) ( ( 0.015625 0 255.25 ) ( 0 0.015625 255.875 ) ) common/caulk 0 0 0
 ( -4152 1128 1024 ) ( -4152 1136 1024 ) ( -4152 1128 1136 ) ( ( 0.015625 0 0 ) ( 0 0.015625 255.875 ) ) common/caulk 0 0 0
@@ -19295,6 +19295,30 @@ brushDef
 ( -4080 1264 1136 ) ( -4064 1264 1136 ) ( -4080 1280 1136 ) ( ( 0.015625 0 12 ) ( 0 -0.015625 455 ) ) exx/base-metal01 0 0 0
 ( -4080 1264 1136 ) ( -4080 1264 1152 ) ( -4064 1264 1136 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
 ( -4080 1264 1136 ) ( -4080 1280 1136 ) ( -4080 1264 1152 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/caulk 0 0 0
+}
+}
+// brush 1357
+{
+brushDef
+{
+( -3824 112 1168 ) ( -3824 80 1168 ) ( -3840 112 1168 ) ( ( 0.03125 0 0 ) ( 0 0.03125 4 ) ) common/caulk 0 0 0
+( -3824 112 1168 ) ( -3840 112 1168 ) ( -3824 112 1064 ) ( ( 0.0078125 0 0.109375 ) ( 0 0.0078125 0 ) ) techpanelx/wall-section3 0 0 0
+( -3948 104 1168 ) ( -3948 104 1064 ) ( -3948 72 1168 ) ( ( 0 0.015625 -0.109375 ) ( -0.015625 0 0 ) ) techpanelx/panel-tech4 0 0 0
+( -3840 80 1064 ) ( -3824 80 1064 ) ( -3840 112 1064 ) ( ( 0.03125 0 0 ) ( 0 0.03125 252 ) ) common/caulk 0 0 0
+( -3840 80 1064 ) ( -3840 80 1168 ) ( -3824 80 1064 ) ( ( 0.0078125 0 0.890625 ) ( 0 0.0078125 0 ) ) techpanelx/wall-section3 0 0 0
+( -3960 80 1064 ) ( -3960 112 1064 ) ( -3960 80 1168 ) ( ( 0 0.015625 -0.109375 ) ( -0.015625 0 0 ) ) techpanelx/panel-tech4 0 0 0
+}
+}
+// brush 1358
+{
+brushDef
+{
+( -3944 96 1024 ) ( -3944 56 1024 ) ( -4080 96 1024 ) ( ( 0.0078125 -0 -0.125 ) ( 0 0.0078125 0.9375 ) ) trak7x/floor-tile1a 0 0 0
+( -3944 96 1024 ) ( -4080 96 1024 ) ( -3944 96 992 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
+( -3960 96 1024 ) ( -3960 96 992 ) ( -3960 56 1024 ) ( ( 0.0078124925 0 -0.5625 ) ( -0 0.015625 0.5 ) ) map_rainbow_factory/trim_section1o 0 0 0
+( -4080 56 992 ) ( -3944 56 992 ) ( -4080 96 992 ) ( ( 0 0.0083333338 991 ) ( -0.0625 0 6 ) ) map_rainbow_factory/trim_section1o 0 0 0
+( -4080 80 992 ) ( -4080 80 1024 ) ( -3944 80 992 ) ( ( 0.0078125 0 -0.09375 ) ( -0 0.015625 0.5 ) ) map_rainbow_factory/trim_section1o 0 0 0
+( -4080 56 992 ) ( -4080 96 992 ) ( -4080 56 1024 ) ( ( 0.015625 0 254.5 ) ( 0 0.015625 0 ) ) common/caulk 0 0 0
 }
 }
 }
@@ -19909,25 +19933,10 @@ brushDef
 }
 // entity 48
 {
-"classname" "trigger_delay"
-"origin" "-4032.000000 960.000000 1088.000000"
-"targetname" "func_door2"
-"target" "trigger_relay1"
-"wait" "3"
-}
-// entity 49
-{
-"classname" "trigger_relay"
-"origin" "-3968.000000 960.000000 1088.000000"
-"targetname" "trigger_relay1"
-"delay" "3"
-"target" "func_door3"
-}
-// entity 50
-{
 "classname" "trigger_multiple"
 "wait" "3"
-"target" "func_door2"
+"target" "trigger_relay3"
+"target2" "func_door2"
 // brush 0
 {
 brushDef
@@ -19941,27 +19950,7 @@ brushDef
 }
 }
 }
-// entity 51
-{
-"classname" "func_door"
-"angle" "-1"
-"speed" "250"
-"spawnflags" "32"
-"targetname" "func_door3"
-// brush 0
-{
-brushDef
-{
-( -4064 1136 1152 ) ( -4080 1136 1152 ) ( -4064 1264 1152 ) ( ( 0 0.03125 159 ) ( -0.03125 0 168.5 ) ) common/caulk 0 0 0
-( -4064 1136 1152 ) ( -4064 1264 1152 ) ( -4064 1136 1024 ) ( ( 0.0078133345 0 1015.1239013672 ) ( 0 0.0078125 9 ) ) map_rainbow_factory/panel_tech1o 0 0 0
-( -4064 1136 1152 ) ( -4064 1136 1024 ) ( -4080 1136 1152 ) ( ( 0.03125 0 159 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-( -4080 1264 1024 ) ( -4080 1136 1024 ) ( -4064 1264 1024 ) ( ( 0.0078125 0 1015.125 ) ( 0 0.0625 258 ) ) map_rainbow_factory/trim_section1o 0 0 0
-( -4080 1264 1024 ) ( -4080 1264 1152 ) ( -4080 1136 1024 ) ( ( 0.0078122616 0 9.8746910095 ) ( 0 0.0078125 9 ) ) map_rainbow_factory/panel_tech1o 0 0 0
-( -4080 1264 1024 ) ( -4064 1264 1024 ) ( -4080 1264 1152 ) ( ( 0.03125 0 97 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
-}
-}
-}
-// entity 52
+// entity 49
 {
 "classname" "trigger_push"
 "target" "target_position1"
@@ -19979,7 +19968,7 @@ brushDef
 }
 }
 }
-// entity 53
+// entity 50
 {
 "classname" "func_door"
 "angle" "270"
@@ -19997,7 +19986,7 @@ brushDef
 }
 }
 }
-// entity 54
+// entity 51
 {
 "classname" "func_button"
 "target" "func_door6"
@@ -20017,7 +20006,7 @@ brushDef
 }
 }
 }
-// entity 55
+// entity 52
 {
 "classname" "misc_model"
 "origin" "-3920.000000 -128.000015 784.000000"
@@ -20026,7 +20015,7 @@ brushDef
 "skin" "2"
 "spawnflags" "2"
 }
-// entity 56
+// entity 53
 {
 "classname" "misc_model"
 "origin" "-3920.000000 -40.000000 784.000000"
@@ -20035,7 +20024,7 @@ brushDef
 "skin" "1"
 "spawnflags" "2"
 }
-// entity 57
+// entity 54
 {
 "classname" "misc_model"
 "origin" "-3856.000000 -40.000000 784.000000"
@@ -20044,7 +20033,7 @@ brushDef
 "skin" "2"
 "spawnflags" "2"
 }
-// entity 58
+// entity 55
 {
 "classname" "func_button"
 "target" "func_door6"
@@ -20065,7 +20054,7 @@ brushDef
 }
 }
 }
-// entity 59
+// entity 56
 {
 "classname" "func_button"
 "target" "func_door7"
@@ -20086,7 +20075,7 @@ brushDef
 }
 }
 }
-// entity 60
+// entity 57
 {
 "classname" "func_door"
 "angle" "270"
@@ -20107,12 +20096,12 @@ brushDef
 }
 }
 }
-// entity 61
+// entity 58
 {
 "classname" "item_health_mega"
 "origin" "-3232.000000 592.000000 784.000000"
 }
-// entity 62
+// entity 59
 {
 "classname" "func_button"
 "target" "func_door7"
@@ -20132,7 +20121,7 @@ brushDef
 }
 }
 }
-// entity 63
+// entity 60
 {
 "classname" "trigger_secret"
 // brush 0
@@ -20148,7 +20137,7 @@ brushDef
 }
 }
 }
-// entity 64
+// entity 61
 {
 "classname" "trigger_secret"
 // brush 0
@@ -20164,7 +20153,7 @@ brushDef
 }
 }
 }
-// entity 65
+// entity 62
 {
 "classname" "func_breakable"
 "health" "75"
@@ -20181,7 +20170,7 @@ brushDef
 }
 }
 }
-// entity 66
+// entity 63
 {
 "classname" "func_door_rotating"
 "targetname" "door_rotating1"
@@ -20212,7 +20201,7 @@ brushDef
 }
 }
 }
-// entity 67
+// entity 64
 {
 "classname" "trigger_multiple"
 "target" "door_rotating1"
@@ -20229,7 +20218,7 @@ brushDef
 }
 }
 }
-// entity 68
+// entity 65
 {
 "classname" "trigger_secret"
 // brush 0
@@ -20245,7 +20234,7 @@ brushDef
 }
 }
 }
-// entity 69
+// entity 66
 {
 "classname" "func_door"
 "targetname" "func_plat1"
@@ -20265,7 +20254,7 @@ brushDef
 }
 }
 }
-// entity 70
+// entity 67
 {
 "classname" "trigger_push"
 "target" "target_position2"
@@ -20283,13 +20272,13 @@ brushDef
 }
 }
 }
-// entity 71
+// entity 68
 {
 "classname" "target_position"
 "origin" "-1944.000000 -688.000000 1064.000000"
 "targetname" "target_position2"
 }
-// entity 72
+// entity 69
 {
 "classname" "func_door_rotating"
 "speed" "180"
@@ -20319,7 +20308,7 @@ brushDef
 }
 }
 }
-// entity 73
+// entity 70
 {
 "classname" "func_door"
 "angle" "-1"
@@ -20340,7 +20329,7 @@ brushDef
 }
 }
 }
-// entity 74
+// entity 71
 {
 "classname" "func_button"
 "target" "func_door5"
@@ -20361,7 +20350,7 @@ brushDef
 }
 }
 }
-// entity 75
+// entity 72
 {
 "classname" "func_button"
 "target" "func_door5"
@@ -20382,7 +20371,7 @@ brushDef
 }
 }
 }
-// entity 76
+// entity 73
 {
 "classname" "trigger_secret"
 // brush 0
@@ -20398,7 +20387,7 @@ brushDef
 }
 }
 }
-// entity 77
+// entity 74
 {
 "classname" "func_door_secret"
 "targetname" "func_door8"
@@ -20415,7 +20404,7 @@ brushDef
 }
 }
 }
-// entity 78
+// entity 75
 {
 "classname" "func_button"
 "target" "func_door8"
@@ -20436,7 +20425,7 @@ brushDef
 }
 }
 }
-// entity 79
+// entity 76
 {
 "classname" "func_door"
 "angle" "-2"
@@ -20453,7 +20442,7 @@ brushDef
 }
 }
 }
-// entity 80
+// entity 77
 {
 "classname" "func_door"
 "angle" "-1"
@@ -20470,7 +20459,7 @@ brushDef
 }
 }
 }
-// entity 81
+// entity 78
 {
 "classname" "func_door"
 "angle" "180"
@@ -20487,7 +20476,7 @@ brushDef
 }
 }
 }
-// entity 82
+// entity 79
 {
 "classname" "func_door"
 "lip" "0"
@@ -20504,29 +20493,29 @@ brushDef
 }
 }
 }
-// entity 83
+// entity 80
 {
 "classname" "trigger_multivibrator"
 "origin" "-2272.000000 -80.000000 448.000000"
 "wait" "3"
 "target" "func_door4"
 }
-// entity 84
+// entity 81
 {
 "classname" "item_health_small"
 "origin" "-2128.000000 0.000000 416.000000"
 }
-// entity 85
+// entity 82
 {
 "classname" "item_health_small"
 "origin" "-2560.000000 -384.000000 416.000000"
 }
-// entity 86
+// entity 83
 {
 "classname" "item_health_small"
 "origin" "-3072.000000 0.000000 416.000000"
 }
-// entity 87
+// entity 84
 {
 "classname" "func_door"
 "targetname" "func_door4"
@@ -20571,7 +20560,7 @@ brushDef
 }
 }
 }
-// entity 88
+// entity 85
 {
 "classname" "func_door"
 "speed" "250"
@@ -20616,7 +20605,7 @@ brushDef
 }
 }
 }
-// entity 89
+// entity 86
 {
 "classname" "func_door"
 "speed" "100"
@@ -20636,7 +20625,7 @@ brushDef
 }
 }
 }
-// entity 90
+// entity 87
 {
 "classname" "func_door"
 "speed" "100"
@@ -20656,7 +20645,7 @@ brushDef
 }
 }
 }
-// entity 91
+// entity 88
 {
 "classname" "func_door"
 "speed" "100"
@@ -20676,7 +20665,7 @@ brushDef
 }
 }
 }
-// entity 92
+// entity 89
 {
 "classname" "func_door"
 "speed" "100"
@@ -20696,12 +20685,12 @@ brushDef
 }
 }
 }
-// entity 93
+// entity 90
 {
 "classname" "item_health_small"
 "origin" "-3712.000000 -384.000000 416.000000"
 }
-// entity 94
+// entity 91
 {
 "classname" "func_button"
 "health" "1"
@@ -20721,7 +20710,7 @@ brushDef
 }
 }
 }
-// entity 95
+// entity 92
 {
 "classname" "func_door"
 "speed" "100"
@@ -20743,7 +20732,7 @@ brushDef
 }
 }
 }
-// entity 96
+// entity 93
 {
 "classname" "func_button"
 "health" "1"
@@ -20763,7 +20752,7 @@ brushDef
 }
 }
 }
-// entity 97
+// entity 94
 {
 "classname" "func_door"
 "speed" "250"
@@ -20784,7 +20773,7 @@ brushDef
 }
 }
 }
-// entity 98
+// entity 95
 {
 "classname" "trigger_secret"
 // brush 0
@@ -20800,7 +20789,7 @@ brushDef
 }
 }
 }
-// entity 99
+// entity 96
 {
 "classname" "trigger_multiple"
 "target" "func_door10"
@@ -20817,7 +20806,7 @@ brushDef
 }
 }
 }
-// entity 100
+// entity 97
 {
 "classname" "trigger_multiple"
 "target" "func_door10"
@@ -20834,7 +20823,7 @@ brushDef
 }
 }
 }
-// entity 101
+// entity 98
 {
 "classname" "func_plat"
 "lip" "80"
@@ -20887,7 +20876,7 @@ brushDef
 }
 }
 }
-// entity 102
+// entity 99
 {
 "classname" "trigger_conveyor"
 "angle" "270"
@@ -20905,7 +20894,7 @@ brushDef
 }
 }
 }
-// entity 103
+// entity 100
 {
 "classname" "func_door_secret"
 "spawnflags" "4"
@@ -20984,7 +20973,7 @@ brushDef
 }
 }
 }
-// entity 104
+// entity 101
 {
 "classname" "func_door_secret"
 "spawnflags" "4"
@@ -21063,7 +21052,7 @@ brushDef
 }
 }
 }
-// entity 105
+// entity 102
 {
 "classname" "func_door"
 "angle" "-1"
@@ -21081,7 +21070,7 @@ brushDef
 }
 }
 }
-// entity 106
+// entity 103
 {
 "classname" "func_plat"
 "lip" "8"
@@ -21110,7 +21099,7 @@ brushDef
 }
 }
 }
-// entity 107
+// entity 104
 {
 "classname" "trigger_conveyor"
 "angle" "90"
@@ -21127,7 +21116,7 @@ brushDef
 }
 }
 }
-// entity 108
+// entity 105
 {
 "classname" "trigger_conveyor"
 "angle" "180"
@@ -21144,7 +21133,7 @@ brushDef
 }
 }
 }
-// entity 109
+// entity 106
 {
 "classname" "trigger_multiple"
 "target" "func_door_secret1"
@@ -21161,7 +21150,7 @@ brushDef
 }
 }
 }
-// entity 110
+// entity 107
 {
 "classname" "func_door"
 "angle" "-1"
@@ -21180,7 +21169,7 @@ brushDef
 }
 }
 }
-// entity 111
+// entity 108
 {
 "classname" "trigger_multiple"
 "target" "func_door12"
@@ -21197,7 +21186,7 @@ brushDef
 }
 }
 }
-// entity 112
+// entity 109
 {
 "classname" "trigger_secret"
 // brush 0
@@ -21213,7 +21202,7 @@ brushDef
 }
 }
 }
-// entity 113
+// entity 110
 {
 "classname" "func_button"
 "target" "func_plat1"
@@ -21233,7 +21222,7 @@ brushDef
 }
 }
 }
-// entity 114
+// entity 111
 {
 "classname" "func_button"
 "target" "trigger_relay2"
@@ -21253,7 +21242,7 @@ brushDef
 }
 }
 }
-// entity 115
+// entity 112
 {
 "classname" "func_door"
 "angle" "180"
@@ -21270,7 +21259,7 @@ brushDef
 }
 }
 }
-// entity 116
+// entity 113
 {
 "classname" "trigger_relay"
 "origin" "-1096.000000 680.000000 1088.000000"
@@ -21278,7 +21267,7 @@ brushDef
 "targetname" "trigger_relay2"
 "delay" "1"
 }
-// entity 117
+// entity 114
 {
 "classname" "trigger_multiple"
 "target" "door_rotating3"
@@ -21295,7 +21284,7 @@ brushDef
 }
 }
 }
-// entity 118
+// entity 115
 {
 "classname" "func_door_rotating"
 "targetname" "door_rotating3"
@@ -21326,7 +21315,7 @@ brushDef
 }
 }
 }
-// entity 119
+// entity 116
 {
 "classname" "func_pointparticles"
 "mdl" "fire_big"
@@ -21344,7 +21333,7 @@ brushDef
 }
 }
 }
-// entity 120
+// entity 117
 {
 "classname" "func_door"
 "angle" "-1"
@@ -21362,7 +21351,7 @@ brushDef
 }
 }
 }
-// entity 121
+// entity 118
 {
 "classname" "trigger_hurt"
 "dmg" "180"
@@ -21391,7 +21380,7 @@ brushDef
 }
 }
 }
-// entity 122
+// entity 119
 {
 "classname" "func_pendulum"
 // brush 0
@@ -21419,7 +21408,7 @@ brushDef
 }
 }
 }
-// entity 123
+// entity 120
 {
 "classname" "func_pendulum"
 "phase" "0.1"
@@ -21448,7 +21437,7 @@ brushDef
 }
 }
 }
-// entity 124
+// entity 121
 {
 "classname" "func_pendulum"
 "phase" "0.2"
@@ -21477,7 +21466,7 @@ brushDef
 }
 }
 }
-// entity 125
+// entity 122
 {
 "classname" "func_pendulum"
 "phase" "0.3"
@@ -21506,7 +21495,7 @@ brushDef
 }
 }
 }
-// entity 126
+// entity 123
 {
 "classname" "func_pendulum"
 "phase" "0.4"
@@ -21535,7 +21524,7 @@ brushDef
 }
 }
 }
-// entity 127
+// entity 124
 {
 "classname" "func_pendulum"
 "phase" "0.5"
@@ -21564,7 +21553,7 @@ brushDef
 }
 }
 }
-// entity 128
+// entity 125
 {
 "classname" "func_pendulum"
 "phase" "0.6"
@@ -21593,7 +21582,7 @@ brushDef
 }
 }
 }
-// entity 129
+// entity 126
 {
 "classname" "func_pendulum"
 "phase" "0.7"
@@ -21622,7 +21611,7 @@ brushDef
 }
 }
 }
-// entity 130
+// entity 127
 {
 "classname" "func_door_rotating"
 "spawnflags" "132"
@@ -21667,7 +21656,7 @@ brushDef
 }
 }
 }
-// entity 131
+// entity 128
 {
 "classname" "func_door_rotating"
 "spawnflags" "132"
@@ -21712,7 +21701,7 @@ brushDef
 }
 }
 }
-// entity 132
+// entity 129
 {
 "classname" "func_button"
 "health" "1"
@@ -21733,7 +21722,7 @@ brushDef
 }
 }
 }
-// entity 133
+// entity 130
 {
 "classname" "func_button"
 "health" "1"
@@ -21754,7 +21743,7 @@ brushDef
 }
 }
 }
-// entity 134
+// entity 131
 {
 "classname" "func_door"
 "angle" "-1"
@@ -21774,7 +21763,7 @@ brushDef
 }
 }
 }
-// entity 135
+// entity 132
 {
 "classname" "trigger_relay"
 "origin" "-3936.000000 240.000000 640.000000"
@@ -21782,7 +21771,7 @@ brushDef
 "target" "timedoor_r_1"
 "target2" "timedoor_btn"
 }
-// entity 136
+// entity 133
 {
 "classname" "trigger_relay"
 "origin" "-3424.000000 208.000000 592.000000"
@@ -21791,7 +21780,7 @@ brushDef
 "target2" "timedoor_d_1"
 "target3" "timedoor_1_2"
 }
-// entity 137
+// entity 134
 {
 "classname" "func_door"
 "angle" "-1"
@@ -21812,7 +21801,7 @@ brushDef
 }
 }
 }
-// entity 138
+// entity 135
 {
 "classname" "trigger_relay"
 "origin" "-3424.000000 272.000000 592.000000"
@@ -21820,7 +21809,7 @@ brushDef
 "target" "timedoor_1"
 "delay" "3"
 }
-// entity 139
+// entity 136
 {
 "classname" "trigger_relay"
 "origin" "-3296.000000 208.000000 592.000000"
@@ -21829,7 +21818,7 @@ brushDef
 "target2" "timedoor_d_2"
 "target3" "timedoor_2_3"
 }
-// entity 140
+// entity 137
 {
 "classname" "func_door"
 "angle" "-1"
@@ -21850,7 +21839,7 @@ brushDef
 }
 }
 }
-// entity 141
+// entity 138
 {
 "classname" "trigger_relay"
 "origin" "-3296.000000 272.000000 592.000000"
@@ -21858,7 +21847,7 @@ brushDef
 "target" "timedoor_2"
 "delay" "3"
 }
-// entity 142
+// entity 139
 {
 "classname" "trigger_relay"
 "origin" "-3344.000000 208.000000 592.000000"
@@ -21866,7 +21855,7 @@ brushDef
 "targetname" "timedoor_1_2"
 "delay" "1"
 }
-// entity 143
+// entity 140
 {
 "classname" "trigger_relay"
 "origin" "-3168.000000 208.000000 592.000000"
@@ -21875,7 +21864,7 @@ brushDef
 "target2" "timedoor_d_3"
 "target3" "timedoor_3_4"
 }
-// entity 144
+// entity 141
 {
 "classname" "func_door"
 "angle" "-1"
@@ -21896,7 +21885,7 @@ brushDef
 }
 }
 }
-// entity 145
+// entity 142
 {
 "classname" "trigger_relay"
 "origin" "-3168.000000 272.000000 592.000000"
@@ -21904,7 +21893,7 @@ brushDef
 "target" "timedoor_3"
 "delay" "3"
 }
-// entity 146
+// entity 143
 {
 "classname" "trigger_relay"
 "origin" "-3216.000000 208.000000 592.000000"
@@ -21912,7 +21901,7 @@ brushDef
 "targetname" "timedoor_2_3"
 "delay" "1"
 }
-// entity 147
+// entity 144
 {
 "classname" "trigger_relay"
 "origin" "-3040.000000 208.000000 592.000000"
@@ -21921,7 +21910,7 @@ brushDef
 "target2" "timedoor_d_4"
 "target3" "timedoor_4_5"
 }
-// entity 148
+// entity 145
 {
 "classname" "func_door"
 "angle" "-1"
@@ -21942,7 +21931,7 @@ brushDef
 }
 }
 }
-// entity 149
+// entity 146
 {
 "classname" "trigger_relay"
 "origin" "-3040.000000 272.000000 592.000000"
@@ -21950,7 +21939,7 @@ brushDef
 "target" "timedoor_4"
 "delay" "3"
 }
-// entity 150
+// entity 147
 {
 "classname" "trigger_relay"
 "origin" "-3088.000000 208.000000 592.000000"
@@ -21958,7 +21947,7 @@ brushDef
 "targetname" "timedoor_3_4"
 "delay" "1"
 }
-// entity 151
+// entity 148
 {
 "classname" "trigger_relay"
 "origin" "-2912.000000 208.000000 592.000000"
@@ -21967,7 +21956,7 @@ brushDef
 "target2" "timedoor_d_5"
 "target3" "timedoor_5_6"
 }
-// entity 152
+// entity 149
 {
 "classname" "func_door"
 "angle" "-1"
@@ -21988,7 +21977,7 @@ brushDef
 }
 }
 }
-// entity 153
+// entity 150
 {
 "classname" "trigger_relay"
 "origin" "-2912.000000 272.000000 592.000000"
@@ -21996,7 +21985,7 @@ brushDef
 "target" "timedoor_5"
 "delay" "3"
 }
-// entity 154
+// entity 151
 {
 "classname" "trigger_relay"
 "origin" "-2960.000000 208.000000 592.000000"
@@ -22004,7 +21993,7 @@ brushDef
 "targetname" "timedoor_4_5"
 "delay" "1"
 }
-// entity 155
+// entity 152
 {
 "classname" "trigger_relay"
 "origin" "-2784.000000 208.000000 592.000000"
@@ -22013,7 +22002,7 @@ brushDef
 "target2" "timedoor_d_6"
 "target3" "timedoor_6_7"
 }
-// entity 156
+// entity 153
 {
 "classname" "func_door"
 "angle" "-1"
@@ -22034,7 +22023,7 @@ brushDef
 }
 }
 }
-// entity 157
+// entity 154
 {
 "classname" "trigger_relay"
 "origin" "-2784.000000 272.000000 592.000000"
@@ -22042,7 +22031,7 @@ brushDef
 "target" "timedoor_6"
 "delay" "3"
 }
-// entity 158
+// entity 155
 {
 "classname" "trigger_relay"
 "origin" "-2832.000000 208.000000 592.000000"
@@ -22050,7 +22039,7 @@ brushDef
 "targetname" "timedoor_5_6"
 "delay" "1"
 }
-// entity 159
+// entity 156
 {
 "classname" "trigger_relay"
 "origin" "-2656.000000 208.000000 592.000000"
@@ -22059,7 +22048,7 @@ brushDef
 "target2" "timedoor_d_7"
 "target3" "timedoor_7_8"
 }
-// entity 160
+// entity 157
 {
 "classname" "func_door"
 "angle" "-1"
@@ -22080,7 +22069,7 @@ brushDef
 }
 }
 }
-// entity 161
+// entity 158
 {
 "classname" "trigger_relay"
 "origin" "-2656.000000 272.000000 592.000000"
@@ -22088,7 +22077,7 @@ brushDef
 "target" "timedoor_7"
 "delay" "3"
 }
-// entity 162
+// entity 159
 {
 "classname" "trigger_relay"
 "origin" "-2704.000000 208.000000 592.000000"
@@ -22096,7 +22085,7 @@ brushDef
 "targetname" "timedoor_6_7"
 "delay" "1"
 }
-// entity 163
+// entity 160
 {
 "classname" "trigger_relay"
 "origin" "-2528.000000 208.000000 592.000000"
@@ -22104,7 +22093,7 @@ brushDef
 "targetname" "timedoor_r_8"
 "target2" "timedoor_d_8"
 }
-// entity 164
+// entity 161
 {
 "classname" "func_door"
 "angle" "-1"
@@ -22125,7 +22114,7 @@ brushDef
 }
 }
 }
-// entity 165
+// entity 162
 {
 "classname" "trigger_relay"
 "origin" "-2528.000000 272.000000 592.000000"
@@ -22134,7 +22123,7 @@ brushDef
 "delay" "3"
 "target2" "timedoor_btn"
 }
-// entity 166
+// entity 163
 {
 "classname" "trigger_relay"
 "origin" "-2576.000000 208.000000 592.000000"
@@ -22142,7 +22131,7 @@ brushDef
 "targetname" "timedoor_7_8"
 "delay" "1"
 }
-// entity 167
+// entity 164
 {
 "classname" "func_door_rotating"
 "spawnflags" "36"
@@ -22174,7 +22163,7 @@ brushDef
 }
 }
 }
-// entity 168
+// entity 165
 {
 "classname" "func_door_rotating"
 "spawnflags" "36"
@@ -22206,7 +22195,7 @@ brushDef
 }
 }
 }
-// entity 169
+// entity 166
 {
 "classname" "func_door"
 "angle" "-1"
@@ -22655,7 +22644,7 @@ exx/base-metal05rust
 }
 }
 }
-// entity 170
+// entity 167
 {
 "classname" "func_button"
 "health" "1"
@@ -22676,7 +22665,7 @@ brushDef
 }
 }
 }
-// entity 171
+// entity 168
 {
 "classname" "func_door"
 "angle" "-2"
@@ -23125,7 +23114,7 @@ exx/base-metal05rust
 }
 }
 }
-// entity 172
+// entity 169
 {
 "classname" "misc_gamemodel"
 "origin" "-2112.000000 1472.000000 312.000000"
@@ -23136,7 +23125,7 @@ exx/base-metal05rust
 "movetype" "0"
 "solid" "5"
 }
-// entity 173
+// entity 170
 {
 "classname" "misc_gamemodel"
 "origin" "-2404.000000 783.999939 423.999969"
@@ -23148,7 +23137,7 @@ exx/base-metal05rust
 "angle" "27.870451"
 "colormap" "1153"
 }
-// entity 174
+// entity 171
 {
 "classname" "func_door"
 "angle" "-2"
@@ -23168,7 +23157,7 @@ brushDef
 }
 }
 }
-// entity 175
+// entity 172
 {
 "classname" "func_door"
 "angle" "-1"
@@ -23188,7 +23177,7 @@ brushDef
 }
 }
 }
-// entity 176
+// entity 173
 {
 "classname" "func_door"
 "angle" "90"
@@ -23208,7 +23197,7 @@ brushDef
 }
 }
 }
-// entity 177
+// entity 174
 {
 "classname" "func_door"
 "lip" "-1"
@@ -23228,7 +23217,7 @@ brushDef
 }
 }
 }
-// entity 178
+// entity 175
 {
 "classname" "func_door"
 "angle" "-2"
@@ -23248,7 +23237,7 @@ brushDef
 }
 }
 }
-// entity 179
+// entity 176
 {
 "classname" "func_door"
 "angle" "-1"
@@ -23268,7 +23257,7 @@ brushDef
 }
 }
 }
-// entity 180
+// entity 177
 {
 "classname" "func_door"
 "angle" "270"
@@ -23288,7 +23277,7 @@ brushDef
 }
 }
 }
-// entity 181
+// entity 178
 {
 "classname" "func_door"
 "lip" "-1"
@@ -23308,7 +23297,7 @@ brushDef
 }
 }
 }
-// entity 182
+// entity 179
 {
 "classname" "func_button"
 "health" "1"
@@ -23329,7 +23318,7 @@ brushDef
 }
 }
 }
-// entity 183
+// entity 180
 {
 "classname" "trigger_relay"
 "origin" "-2608.000000 1008.000000 344.000000"
@@ -23338,14 +23327,14 @@ brushDef
 "target2" "red_vault_delay_1"
 "target3" "red_vault_toggle_init"
 }
-// entity 184
+// entity 181
 {
 "classname" "trigger_disablerelay"
 "origin" "-2648.000000 968.000000 344.000000"
 "target" "red_vault_init"
 "targetname" "red_vault_toggle_init"
 }
-// entity 185
+// entity 182
 {
 "classname" "trigger_relay"
 "origin" "-2520.000000 1048.000000 344.000000"
@@ -23354,7 +23343,7 @@ brushDef
 "delay" "2"
 "target2" "red_vault_door_1"
 }
-// entity 186
+// entity 183
 {
 "classname" "trigger_relay"
 "origin" "-2520.000000 1008.000000 344.000000"
@@ -23363,7 +23352,7 @@ brushDef
 "delay" "1"
 "target2" "red_vault_delay_3"
 }
-// entity 187
+// entity 184
 {
 "classname" "trigger_relay"
 "origin" "-2520.000000 968.000000 344.000000"
@@ -23372,7 +23361,7 @@ brushDef
 "delay" "3"
 "target2" "red_vault_toggle_init"
 }
-// entity 188
+// entity 185
 {
 "classname" "func_pointparticles"
 "mdl" "fire_big"
@@ -23390,7 +23379,7 @@ brushDef
 }
 }
 }
-// entity 189
+// entity 186
 {
 "classname" "misc_gamemodel"
 "origin" "-2769.553467 606.313904 499.999939"
@@ -23402,7 +23391,7 @@ brushDef
 "angle" "95.012459"
 "colormap" "1104"
 }
-// entity 190
+// entity 187
 {
 "classname" "misc_gamemodel"
 "origin" "-2776.220703 542.499207 499.999908"
@@ -23414,7 +23403,7 @@ brushDef
 "angle" "173.758469"
 "colormap" "1088"
 }
-// entity 191
+// entity 188
 {
 "classname" "func_bobbing"
 "height" "64"
@@ -23862,7 +23851,7 @@ exx/base-metal05rust
 }
 }
 }
-// entity 192
+// entity 189
 {
 "classname" "func_conveyor"
 "speed" "100"
@@ -23880,7 +23869,7 @@ brushDef
 }
 }
 }
-// entity 193
+// entity 190
 {
 "classname" "func_door"
 "lip" "-368"
@@ -24350,7 +24339,7 @@ brushDef
 }
 }
 }
-// entity 194
+// entity 191
 {
 "classname" "func_group"
 // brush 0
@@ -25185,7 +25174,7 @@ brushDef
 }
 }
 }
-// entity 195
+// entity 192
 {
 "classname" "func_door_rotating"
 "angle" "225"
@@ -25214,13 +25203,13 @@ brushDef
 }
 }
 }
-// entity 196
+// entity 193
 {
 "classname" "info_player_deathmatch"
 "origin" "-2832.000000 848.000000 336.000000"
 "angle" "-180.000000"
 }
-// entity 197
+// entity 194
 {
 "classname" "func_door"
 "lip" "-288"
@@ -25690,7 +25679,7 @@ brushDef
 }
 }
 }
-// entity 198
+// entity 195
 {
 "classname" "func_group"
 // brush 0
@@ -26525,7 +26514,7 @@ brushDef
 }
 }
 }
-// entity 199
+// entity 196
 {
 "classname" "func_door"
 "lip" "-368"
@@ -26995,7 +26984,7 @@ brushDef
 }
 }
 }
-// entity 200
+// entity 197
 {
 "classname" "func_group"
 // brush 0
@@ -27830,7 +27819,7 @@ brushDef
 }
 }
 }
-// entity 201
+// entity 198
 {
 "classname" "func_door"
 "lip" "-368"
@@ -28300,7 +28289,7 @@ brushDef
 }
 }
 }
-// entity 202
+// entity 199
 {
 "classname" "func_group"
 // brush 0
@@ -29135,7 +29124,7 @@ brushDef
 }
 }
 }
-// entity 203
+// entity 200
 {
 "classname" "func_door"
 "lip" "-368"
@@ -29605,7 +29594,7 @@ brushDef
 }
 }
 }
-// entity 204
+// entity 201
 {
 "classname" "func_group"
 // brush 0
@@ -30440,7 +30429,7 @@ brushDef
 }
 }
 }
-// entity 205
+// entity 202
 {
 "classname" "func_door"
 "speed" "300"
@@ -30608,7 +30597,7 @@ brushDef
 }
 }
 }
-// entity 206
+// entity 203
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_1"
@@ -30627,7 +30616,7 @@ brushDef
 }
 }
 }
-// entity 207
+// entity 204
 {
 "classname" "trigger_secret"
 // brush 0
@@ -30643,7 +30632,7 @@ brushDef
 }
 }
 }
-// entity 208
+// entity 205
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_1"
@@ -30662,7 +30651,7 @@ brushDef
 }
 }
 }
-// entity 209
+// entity 206
 {
 "classname" "func_door"
 "speed" "300"
@@ -30830,7 +30819,7 @@ brushDef
 }
 }
 }
-// entity 210
+// entity 207
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_2"
@@ -30849,7 +30838,7 @@ brushDef
 }
 }
 }
-// entity 211
+// entity 208
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_2"
@@ -30868,7 +30857,7 @@ brushDef
 }
 }
 }
-// entity 212
+// entity 209
 {
 "classname" "func_door"
 "speed" "300"
@@ -31036,7 +31025,7 @@ brushDef
 }
 }
 }
-// entity 213
+// entity 210
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_3"
@@ -31055,7 +31044,7 @@ brushDef
 }
 }
 }
-// entity 214
+// entity 211
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_3"
@@ -31074,7 +31063,7 @@ brushDef
 }
 }
 }
-// entity 215
+// entity 212
 {
 "classname" "func_door"
 "speed" "300"
@@ -31242,7 +31231,7 @@ brushDef
 }
 }
 }
-// entity 216
+// entity 213
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_4"
@@ -31261,7 +31250,7 @@ brushDef
 }
 }
 }
-// entity 217
+// entity 214
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_4"
@@ -31280,7 +31269,7 @@ brushDef
 }
 }
 }
-// entity 218
+// entity 215
 {
 "classname" "func_door"
 "speed" "300"
@@ -31448,7 +31437,7 @@ brushDef
 }
 }
 }
-// entity 219
+// entity 216
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_5"
@@ -31467,7 +31456,7 @@ brushDef
 }
 }
 }
-// entity 220
+// entity 217
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_5"
@@ -31486,7 +31475,7 @@ brushDef
 }
 }
 }
-// entity 221
+// entity 218
 {
 "classname" "func_door"
 "speed" "300"
@@ -31654,7 +31643,7 @@ brushDef
 }
 }
 }
-// entity 222
+// entity 219
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_6"
@@ -31673,7 +31662,7 @@ brushDef
 }
 }
 }
-// entity 223
+// entity 220
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_6"
@@ -31692,7 +31681,7 @@ brushDef
 }
 }
 }
-// entity 224
+// entity 221
 {
 "classname" "func_door"
 "speed" "300"
@@ -31860,7 +31849,7 @@ brushDef
 }
 }
 }
-// entity 225
+// entity 222
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_7"
@@ -31879,7 +31868,7 @@ brushDef
 }
 }
 }
-// entity 226
+// entity 223
 {
 "classname" "trigger_multiple"
 "target" "conv_blade_7"
@@ -31895,6 +31884,73 @@ brushDef
 ( -4860 544 296 ) ( -4844 544 296 ) ( -4860 608 296 ) ( ( 0.015625 0 0 ) ( 0 0.015625 235.3125 ) ) common/trigger 0 0 0
 ( -4860 544 272 ) ( -4860 544 384 ) ( -4844 544 272 ) ( ( 0.015625 0 20.6875 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
 ( -4816 544 272 ) ( -4816 608 272 ) ( -4816 544 384 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) common/trigger 0 0 0
+}
+}
+}
+// entity 224
+{
+"classname" "info_player_deathmatch"
+"origin" "-4016.000000 320.000000 1056.000000"
+"angle" "90.000008"
+}
+// entity 225
+{
+"classname" "trigger_multiple"
+"wait" "3"
+"target" "func_door3"
+// brush 0
+{
+brushDef
+{
+( -3568 1008 968 ) ( -3568 920 968 ) ( -3576 1008 968 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -3568 1008 968 ) ( -3576 1008 968 ) ( -3568 1008 880 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -3568 1008 968 ) ( -3568 1008 880 ) ( -3568 920 968 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -3576 920 880 ) ( -3568 920 880 ) ( -3576 1008 880 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -3576 920 880 ) ( -3576 920 968 ) ( -3568 920 880 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -3576 920 880 ) ( -3576 1008 880 ) ( -3576 920 968 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+}
+}
+}
+// entity 226
+{
+"classname" "func_door"
+"angle" "-1"
+"targetname" "func_door13"
+"spawnflags" "4"
+// brush 0
+{
+brushDef
+{
+( -4064 1136 1152 ) ( -4080 1136 1152 ) ( -4064 1264 1152 ) ( ( 0 0.03125 159 ) ( -0.03125 0 168.5 ) ) common/caulk 0 0 0
+( -4064 1136 1152 ) ( -4064 1264 1152 ) ( -4064 1136 1024 ) ( ( 0.0078125 0 -0.125 ) ( -0 0.0078125 0 ) ) trak7x/wall-wall1b 0 0 0
+( -4064 1136 1152 ) ( -4064 1136 1024 ) ( -4080 1136 1152 ) ( ( 0.03125 0 159 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+( -4080 1264 1024 ) ( -4080 1136 1024 ) ( -4064 1264 1024 ) ( ( 0.0078125 0 1015.125 ) ( 0 0.0625 258 ) ) map_rainbow_factory/trim_section1o 0 0 0
+( -4080 1264 1024 ) ( -4080 1264 1152 ) ( -4080 1136 1024 ) ( ( 0.0078122616 0 9.8746910095 ) ( 0 0.0078125 9 ) ) map_rainbow_factory/panel_tech1o 0 0 0
+( -4080 1264 1024 ) ( -4064 1264 1024 ) ( -4080 1264 1152 ) ( ( 0.03125 0 97 ) ( 0 0.03125 0 ) ) common/caulk 0 0 0
+}
+}
+}
+// entity 227
+{
+"classname" "trigger_relay"
+"origin" "-4000.000000 1216.000000 1088.000000"
+"target" "func_door13"
+"targetname" "trigger_relay3"
+"delay" "5"
+}
+// entity 228
+{
+"classname" "trigger_secret"
+// brush 0
+{
+brushDef
+{
+( -4072 1264 1152 ) ( -4072 1136 1152 ) ( -4080 1264 1152 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -4072 1264 1152 ) ( -4080 1264 1152 ) ( -4072 1264 1024 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -4072 1264 1152 ) ( -4072 1264 1024 ) ( -4072 1136 1152 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -4080 1136 1024 ) ( -4072 1136 1024 ) ( -4080 1264 1024 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -4080 1136 1024 ) ( -4080 1136 1152 ) ( -4072 1136 1024 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
+( -4080 1136 1024 ) ( -4080 1264 1024 ) ( -4080 1136 1152 ) ( ( 0.015625 0 -0 ) ( -0 0.015625 0 ) ) common/trigger 0 0 0
 }
 }
 }
