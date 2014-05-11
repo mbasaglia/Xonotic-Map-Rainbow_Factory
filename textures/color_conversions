@@ -1,2 +1,39 @@
 yellow -> orange : Hue -32 
 blue -> purple: Hue +32
+
+orange -> purple Hue -136
+
+
+
+
+Mirror:
+Orange Purple
+phillipk1x/trim-pk01_door01c		map_rainbow_factory/trim-pk01_door01c_purple
+phillipk1x/walls-pk01_wall04b2
+phillipk1x/panel-pk01_panel01b
+
+phillipk2x/trims-pk02_trim_set01b	map_rainbow_factory/pk02_trim_set01b_purple
+phillipk2x/walls-pk02_wall05a		map_rainbow_factory/pk02_wall05a_purple
+phillipk2x/walls-pk02_wall05b		map_rainbow_factory/*_purple
+phillipk2x/walls-pk02_wall01		map_rainbow_factory/*_purple
+phillipk2x/floor-pk02_floor13b		map_rainbow_factory/*_purple
+phillipk2x/floor-pk02_floor06b		map_rainbow_factory/*_purple
+phillipk2x/panels-pk02_door02		map_rainbow_factory/*_purple
+
+map_rainbow_factory/baseorange		facility114x/base-basepurple
+map_rainbow_factory/panel_tech2o	map_rainbow_factory/panel_tech2p
+map_rainbow_factory/wall_plaster_orange map_rainbow_factory/wall_plaster_purple
+map_rainbow_factory/panel_tech1o
+
+trak4x/floor-tile3a					map_rainbow_factory/floor_tile3a_purple
+
+(trak5x/panel-graypanel1)
+(trak5x/panel-graypanel2)
+trak5x/trim-trim6a
+trak5x/trim-trim3a
+trak5x/floor-tile3a
+
+trak7x/wall-wall1b
+trak7x/floor-tile1a
+
+exx/floor-wrn01						exx/floor-wrn01-purple

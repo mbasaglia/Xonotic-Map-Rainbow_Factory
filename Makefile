@@ -73,7 +73,7 @@ BASEPATH=$(HOME)/share/Xonotic/
 HOMEPATH=$(HOME)/.xonotic/
 
 TEXTURE_BLACKLIST=workfiles
-EXTRA_DIRS=sound
+EXTRA_DIRS=sound models
 EXTRA_FILES_RENAME=
 
 Q3MAP2_FLAGS_EXTRA=
