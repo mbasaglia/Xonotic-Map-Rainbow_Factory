@@ -1,19 +1,19 @@
 title Rainbow Factory
-description In the rainbow factory, where the fears and horrors come true
+description A bright and colorful place to die.
 author Melanosuchus
-// cdtrack 7
-cdtrack Rainbow_Factory.ogg
-// has weapons
+cdtrack 11
+//cdtrack Rainbow_Factory.ogg
+has weapons
 // has turrets
 // has vehicles
 gametype dm
 gametype lms
-gametype arena
 gametype ka
 gametype kh
 gametype ca
 gametype tdm
 gametype ft
+gametype ctf
 // optional: fog density red green blue alpha mindist maxdist
 // optional: settemp_for_type (all|gametypename) cvarname value
 // optional: clientsettemp_for_type (all|gametypename) cvarname value

@@ -410,12 +410,8 @@ textures/map_rainbow_factory/floor_wrn01-green
 	dpoffsetmapping - 2 match8 46
 	dpglossintensitymod  3
 	dpglossexponentmod  4
-
-
 	{
-		map textures/map_rainbow_factoryr/floor_wrn01-green
-		
-
+		map textures/map_rainbow_factory/floor_wrn01-green
 	}
 	{
 		map $lightmap
