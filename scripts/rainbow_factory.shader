@@ -399,3 +399,28 @@ textures/map_rainbow_factory/floor_tile1a_purple
 		blendfunc filter
 	}
 }
+
+// Green
+
+textures/map_rainbow_factory/floor_wrn01-green
+{
+	qer_editorimage textures/map_rainbow_factory/floor_wrn01-green
+	
+	q3map_bounceScale  0.75
+	dpoffsetmapping - 2 match8 46
+	dpglossintensitymod  3
+	dpglossexponentmod  4
+
+
+	{
+		map textures/map_rainbow_factoryr/floor_wrn01-green
+		
+
+	}
+	{
+		map $lightmap
+		rgbGen identity
+		tcGen lightmap
+		blendfunc filter
+	}
+}
