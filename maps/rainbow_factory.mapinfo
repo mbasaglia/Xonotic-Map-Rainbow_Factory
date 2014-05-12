@@ -8,6 +8,7 @@ has weapons
 // has vehicles
 
 // Generic
+gametype arena
 gametype dm
 gametype lms
 gametype ka
