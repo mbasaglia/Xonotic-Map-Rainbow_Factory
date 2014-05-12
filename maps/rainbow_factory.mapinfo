@@ -22,7 +22,8 @@ gametype rc
 gametype cts
 gametype nb
 gametype dom
-// todo: dom ons? as inv?
+gametype ons
+// todo as inv?
 
 
 // optional: fog density red green blue alpha mindist maxdist
