@@ -20,8 +20,8 @@ gametype ft
 gametype ctf
 gametype rc
 gametype cts
-// todo: dom ons? assault 
-// nb  maybe limit it to the entrance
+gametype nb
+// todo: dom ons? as inv?
 
 
 // optional: fog density red green blue alpha mindist maxdist
