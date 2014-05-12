@@ -21,6 +21,7 @@ gametype ctf
 gametype rc
 gametype cts
 gametype nb
+gametype dom
 // todo: dom ons? as inv?
 
 
