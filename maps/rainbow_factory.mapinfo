@@ -24,7 +24,7 @@ gametype nb
 gametype dom
 gametype ons
 gametype as
-// todo as inv?
+gametype inv
 
 // ESK
 gametype vip
