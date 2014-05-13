@@ -25,11 +25,10 @@ gametype dom
 gametype ons
 gametype as
 gametype inv
-
 // ESK
 gametype vip
 gametype inf
-// todo jb
+// todo gametype jb
 
 
 // optional: fog density red green blue alpha mindist maxdist
