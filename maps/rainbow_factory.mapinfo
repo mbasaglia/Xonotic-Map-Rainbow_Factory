@@ -28,7 +28,7 @@ gametype inv
 // ESK
 gametype vip
 gametype inf
-// todo gametype jb
+gametype jb
 
 
 // optional: fog density red green blue alpha mindist maxdist
