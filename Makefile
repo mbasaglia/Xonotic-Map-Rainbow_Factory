@@ -67,7 +67,7 @@
 #	Used by rename, rename_copy, rename_link.
 
 MAPNAME=rainbow_factory
-VERSION=_v001
+VERSION=_v002
 
 BASEPATH=$(HOME)/share/Xonotic/
 HOMEPATH=$(HOME)/.xonotic/
